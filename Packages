@@ -3,15 +3,15 @@ Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Aaron <admin@aaronc.cn>
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/Aaron.game.speedplus_1.deb
-Size: 898056
-MD5sum: a02e760ce6a4795f1f5026e2321065b9
-SHA1: 0289518de5b0208b29b40d924daadd32c15dfd9f
-SHA256: 961e861c995f6e392a119d96d33249818adad8c79f7985510464c6fd218d0aee
+Filename: ./debs/Aaron.game.speedplus_1.2_iphoneos-arm.deb
+Size: 898148
+MD5sum: 276c7d80fb2e942720e314258c2f4fc5
+SHA1: 39215165b5e80da69db508b0f0a6ba3fd4b035f1
+SHA256: 6f23226b7a5a262acf757ae1e548961f355f7c4a7c1aea8f0e60c3b5097192a6
 Section: Games
 Priority: optional
 Description: 加速器，目前内置《我功夫特牛》《剑与远征》《Safari浏览器》修改的话直接修改plist文件即可
-Author: Acreson
+Author: Aaron
 Icon: file:///Applications/Cydia.app/Sections/Acreson-游戏(Games).png
 Name: Game「加速器」
 Sponsor: Aaron <admin@aaronc.cn>
@@ -44,6 +44,22 @@ MD5sum: ac8ecd8eacae27d466ec61490d77463f
 SHA1: 5bbee55fab652d778f8020a9176a496c9beae5ea
 SHA256: 4240d4a9d07a0b2cf1437ec7709e2bdca09c7f6cb16b272a66d54c7016104017
 Section: Wechat
+Description: 微信清除性别，使用方法:安装后进入微信设置随意选择性别即可生效，修改完毕后即可卸载，感谢Gawain__的思路
+Author: 7Loopy
+Name: WeChat NullInfo
+
+Package: Aaron.wechatnullinfo
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: ./debs/Aaron.wechatnullinfo_1.1-1_iphoneos-arm.deb
+Size: 44680
+MD5sum: 80da96defa54c6d4f5d1e44cdf9f261a
+SHA1: 1a82f753fd1a4858f7a513b59cd8db330133abb3
+SHA256: 541733a1b50c0bc808b0ac419cc35d8f6ede104e6957b939e0a85d58d2a6bdef
+Section: WeChat
 Description: 微信清除性别，使用方法:安装后进入微信设置随意选择性别即可生效，修改完毕后即可卸载，感谢Gawain__的思路
 Author: 7Loopy
 Name: WeChat NullInfo
