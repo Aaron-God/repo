@@ -1,0 +1,225 @@
+Package: Aaron.game.speedplus
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Aaron <admin@aaronc.cn>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/Aaron.game.speedplus_1.deb
+Size: 898056
+MD5sum: a02e760ce6a4795f1f5026e2321065b9
+SHA1: 0289518de5b0208b29b40d924daadd32c15dfd9f
+SHA256: 961e861c995f6e392a119d96d33249818adad8c79f7985510464c6fd218d0aee
+Section: Games
+Priority: optional
+Description: 加速器，目前内置《我功夫特牛》《剑与远征》《Safari浏览器》修改的话直接修改plist文件即可
+Author: Acreson
+Icon: file:///Applications/Cydia.app/Sections/Acreson-游戏(Games).png
+Name: Game「加速器」
+Sponsor: Aaron <admin@aaronc.cn>
+
+Package: Aaron.wechatctx
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 580
+Depends: mobilesubstrate
+Filename: ./debs/Aaron.wechatctx_1.deb
+Size: 112144
+MD5sum: 10a2b50c1274599f57604dcd188d3fde
+SHA1: ecce87657b02e49c417b3eeeb70125cdcadf63de
+SHA256: f8375f2223b04c47ee6b1f4efd3acea0fb80cc2b6726175792d8a9597d131585
+Section: WeChat
+Description: 微信允许长图片头像上传，也别太长或图片太大吧，可能会上传失败
+Author: Netskao
+Name: WeChat 长头像
+
+Package: Aaron.wechatnullinfo
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: ./debs/Aaron.wechatnullinfo_1.deb
+Size: 44660
+MD5sum: ac8ecd8eacae27d466ec61490d77463f
+SHA1: 5bbee55fab652d778f8020a9176a496c9beae5ea
+SHA256: 4240d4a9d07a0b2cf1437ec7709e2bdca09c7f6cb16b272a66d54c7016104017
+Section: Wechat
+Description: 微信清除性别，使用方法:安装后进入微信设置随意选择性别即可生效，修改完毕后即可卸载，感谢Gawain__的思路
+Author: 7Loopy
+Name: WeChat NullInfo
+
+Package: Aaron.wechatremark
+Version: 0.0.3-1+debug
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: ./debs/Aaron.wechatremark_0.0.deb
+Size: 11084
+MD5sum: 20ed9d03a9c318a7a61cd103ddc9c488
+SHA1: 78fb559bb33f59a6efde0fcc693d784faecccdf4
+SHA256: 82c9be514f1f6e6fe5c473d821f7e2b434c1b72356430740455b987e3f706c15
+Section: WeChat
+Description: 快速更改好友备注插件：在好友聊天界面直接输入"备注 新的备注"（注意中间有空格）
+Author: xia0
+Name: WeChatRemark
+
+Package: com.25mao.FakeTransfer
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.25mao.faketransfer_0.deb
+Size: 22004
+MD5sum: 532fdff4d887adc3ebbc171933e1b6e6
+SHA1: 35bd64184c8d217ac8c29173d5481c51e8b7f918
+SHA256: d372e5c5388a752cb697067e1ef58c9f80bba9ac8bd44121c183216a8df1255d
+Section: WeChat
+Priority: optional
+Author: Mao
+Icon: null
+Name: 微信转账金额修改
+
+Package: com.25mao.GameLogin
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.25mao.gamelogin_0.deb
+Size: 21468
+MD5sum: e1f7b7699ef0186ae3f3d34a9cdd2826
+SHA1: ebd1c76f63166ae1e5388f4cc6c4a814d3c5cfaa
+SHA256: 5f7cd27aadd377e871bac09cf1c8c8dee642de92cdeb84fde204aa70ba820179
+Section: WeChat
+Priority: optional
+Author: Mao
+Icon: null
+Name: 腾讯游戏扫码登录
+
+Package: com.25mao.MiYou
+Version: 0.2-3
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.25mao.miyou_0.deb
+Size: 123532
+MD5sum: 6709f39b300a28520f2c54abacbf9a8b
+SHA1: 86d66d3fa0affffdcb0d31ce00922d48295e800c
+SHA256: 31196b9bca7bf17f83cd107e9b50a347890eaaef2192dc09700fd5c6e59d0b67
+Section: WeChat
+Priority: optional
+Author: Mao
+Icon: null
+Name: 微信助手-密友
+
+Package: com.25mao.WeChatHookPro
+Version: 0.3-5
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.25mao.wechathookpro_0.deb
+Size: 1373972
+MD5sum: 78f70b7b3def9df98db3d8f229402f3a
+SHA1: ed1a4894484d6f3246d5e3233252181e9594d95e
+SHA256: 6f6b5f97d44a9f04d78017c079c187f7ca3a1bc4e2fd5205c1281de152f091fa
+Section: WeChat
+Priority: optional
+Author: Mao
+Name: WeChatHookPro
+
+Package: com.Aaron.jsboxcrack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Aaron
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: ./debs/com.Aaron.jsboxcrack_1.deb
+Size: 7020
+MD5sum: f1c4aede60a75683e6ede820285cf4ce
+SHA1: 014d767fe999255f79e2a53670c49f304bae2b5c
+SHA256: 3c97844157a06a8cadfa9327c6e24d165516cadc174d4f96794c1f6d66aa1bda
+Section: Crack
+Description: JSBox 移除盗版验证弹窗
+A12: 1
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 1.png
+Name: JSBox去除共享限制
+Sponsor: Aaron
+
+Package: com.Aaron.thorcrack
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Aaron
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.Aaron.thorcrack_1.deb
+Size: 9612
+MD5sum: 81b96898674807149ccd6c37a0328ab2
+SHA1: 7012b2c7c979691494c105b559c82ff4a07bb50c
+SHA256: 3b4d648a69a388887f8bda9d3d117aa8161b2a767ac106c1b4a03e93612f3d20
+Section: Crack
+Description: Thor 移除盗版验证弹窗，可查看编辑所有过滤器断点
+A12: 1
+Author: Aaron
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 1.png
+Name: Thor断点编辑高级版
+Sponsor: Aaron
+
+Package: com.flex2areo.disablealerts1
+Version: 2.3.0
+Architecture: iphoneos-arm
+Maintainer: Aaron
+Installed-Size: 164
+Depends: mobilesubstrate
+Filename: ./debs/com.flex2areo.disablealerts1_2.3.0_iphoneos-arm.deb
+Size: 17392
+MD5sum: f138a40684deb2fd0ecdae55d84baabb
+SHA1: 756d2afbf3cd654c0932f51049f12cdd74e9f3c7
+SHA256: dc887a505197d7c5387e48cc0194caade725e9549c9451e0f36d513fc7870356
+Section: FakeIGG
+Description: 屏蔽系统和应用程序弹窗
+A12: 0
+Author: aReo
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 12.png
+Name: DisableAlert-全局弹窗屏蔽
+Sponsor: Aaron
+
+Package: com.michael.appleturboboost
+Version: 0.5.1
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Depends: firmware (>= 12.0), darwintools, com.bingner.plutil (>= 0.1.0), sed, system-cmds
+Conflicts: com.michael.appleilluminator
+Filename: ./debs/com.michael.appleturboboost_0.5.1_iphoneos-arm.deb
+Size: 1936
+MD5sum: 44144c0b5e81a0de66a9a7233b0d3841
+SHA1: 9b150e8975a2b270e59f1607a2dfb6b4fc5ab64c
+SHA256: cd002db26cdd4863cee68ebfd75a32dffc1659eb9e16a3a2478202522a2da2c2
+Section: Tweaks
+Description: Turbo Boost Your Apple!
+Author: Halo_Michael <yc992147156@me.com>
+Name: Apple Turbo Boost
+
+Package: idv.Aqua.CheatEngineIO
+Version: 12.0.4
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Installed-Size: 1372
+Depends: firmware (>= 8.0)
+Filename: ./debs/idv.Aqua.CheatEngineIO_12.0.4_iphoneos-arm.deb
+Size: 400708
+MD5sum: b0993ee7d3672b18d485a9f5cd0c583e
+SHA1: 04014365e832c1d4605c8dc2c5a7fbdcae058ddd
+SHA256: 0f6bfe2c230b0e689e8f8b29af14fbf722db318c8c8a9b52ce86156e85a97f89
+Section: FakeIGG
+Priority: optional
+Homepage: https://igg-server.herokuapp.com/
+Description: 此为修改版 iGG，而且还是破解版，破解版有被开发者拉黑设备的可能，使用有风险，自行斟酌。出现弹窗配合DisableAlert屏蔽弹窗食用
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
+Author: Aqua Wu <igameguardian@gmail.com>
+Depiction: https://igg-server.herokuapp.com/
+Dev: aqua
+Name: CheatEngineIO
+Sponsor: Aqua Wu <igameguardian@gmail.com>
+
