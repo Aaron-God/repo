@@ -38,22 +38,6 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 212
 Depends: mobilesubstrate
-Filename: ./debs/Aaron.wechatnullinfo_1.deb
-Size: 44660
-MD5sum: ac8ecd8eacae27d466ec61490d77463f
-SHA1: 5bbee55fab652d778f8020a9176a496c9beae5ea
-SHA256: 4240d4a9d07a0b2cf1437ec7709e2bdca09c7f6cb16b272a66d54c7016104017
-Section: Wechat
-Description: 微信清除性别，使用方法:安装后进入微信设置随意选择性别即可生效，修改完毕后即可卸载，感谢Gawain__的思路
-Author: 7Loopy
-Name: WeChat NullInfo
-
-Package: Aaron.wechatnullinfo
-Version: 1.1-1
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 212
-Depends: mobilesubstrate
 Filename: ./debs/Aaron.wechatnullinfo_1.1-1_iphoneos-arm.deb
 Size: 44680
 MD5sum: 80da96defa54c6d4f5d1e44cdf9f261a
@@ -181,6 +165,22 @@ Icon2: 1.png
 Name: Thor断点编辑高级版
 Sponsor: Aaron
 
+Package: com.aaron.appleturboboost
+Version: 0.5.1
+Architecture: iphoneos-arm
+Maintainer: Aaron
+Depends: firmware (>= 12.0), darwintools, com.bingner.plutil (>= 0.1.0), sed, system-cmds
+Conflicts: com.michael.appleilluminator
+Filename: ./debs/com.aaron.appleturboboost_0.5.1_iphoneos-arm.deb
+Size: 1932
+MD5sum: 7aeecef221dce4b8d20209bce8fc1cc8
+SHA1: 55bdb7d0fd12510880b3ec5f407b6cdd013c8a29
+SHA256: d560d96611899b368dbd1d226c4c0ef3daaf6a0a0971fc852e1b723c85750be2
+Section: Tweaks
+Description: Turbo Boost Your Apple!
+Author: Halo_Michael <yc992147156@me.com>
+Name: Apple Turbo Boost
+
 Package: com.flex2areo.disablealerts1
 Version: 2.3.0
 Architecture: iphoneos-arm
@@ -200,22 +200,6 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Icon2: 12.png
 Name: DisableAlert-全局弹窗屏蔽
 Sponsor: Aaron
-
-Package: com.michael.appleturboboost
-Version: 0.5.1
-Architecture: iphoneos-arm
-Maintainer: Halo_Michael <yc992147156@me.com>
-Depends: firmware (>= 12.0), darwintools, com.bingner.plutil (>= 0.1.0), sed, system-cmds
-Conflicts: com.michael.appleilluminator
-Filename: ./debs/com.michael.appleturboboost_0.5.1_iphoneos-arm.deb
-Size: 1936
-MD5sum: 44144c0b5e81a0de66a9a7233b0d3841
-SHA1: 9b150e8975a2b270e59f1607a2dfb6b4fc5ab64c
-SHA256: cd002db26cdd4863cee68ebfd75a32dffc1659eb9e16a3a2478202522a2da2c2
-Section: Tweaks
-Description: Turbo Boost Your Apple!
-Author: Halo_Michael <yc992147156@me.com>
-Name: Apple Turbo Boost
 
 Package: idv.Aqua.CheatEngineIO
 Version: 12.0.4
@@ -237,5 +221,27 @@ Author: Aqua Wu <igameguardian@gmail.com>
 Depiction: https://igg-server.herokuapp.com/
 Dev: aqua
 Name: CheatEngineIO
+Sponsor: Aqua Wu <igameguardian@gmail.com>
+
+Package: idv.aqua.Siri
+Version: 12.0.4
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Installed-Size: 1372
+Depends: firmware (>= 8.0)
+Filename: ./debs/idv.aqua.Siri_12.0.4_iphoneos-arm.deb
+Size: 274068
+MD5sum: 2651934d3b637bbf72342b23d39165ca
+SHA1: f3f500f882e642a9007a5cf12da592817e5ba038
+SHA256: 1b1050c0bd7aabe65abb6d327603563bda21ac832eae3d810e631cf40d49b1f9
+Section: Utilities
+Priority: optional
+Homepage: https://igg-server.herokuapp.com/
+Description: iGameGuardian is a memory editor for iOS 8 to 12.
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
+Author: Aqua Wu <igameguardian@gmail.com>
+Depiction: https://igg-server.herokuapp.com/
+Dev: aqua
+Name: iGG 12 Speed
 Sponsor: Aqua Wu <igameguardian@gmail.com>
 
