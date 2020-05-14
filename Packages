@@ -4,11 +4,12 @@ Architecture: iphoneos-arm
 Maintainer: Aaron <851302227@qq.com>
 Depends: firmware (>= 11.0)
 Filename: ./debs/aaron.shadowrocket_2.1.48_iphoneos-arm.deb
-Size: 14281140
-MD5sum: f65329815c9af7a2d06d38e62da2ccfe
-SHA1: ac32a467258cfdf0e58ab046cac32c1046232cb5
-SHA256: c2dd2784663d9b0e3e03c226048cdba5ab01ebfc48cc976874c814125a6ba899
+Size: 14281152
+MD5sum: 33ad387e41c6ea669e0fb2d55e7bedd5
+SHA1: 6153fd607bb4cc9a5fa2f5ebd57d5244e8f029f9
+SHA256: e6f08bd9c2647968d553b19b5bf7852dbea314be462dfdfd23fb7bb09b9ef9c9
 Section: Aaron-应用(Applications)
+Homepage: https://aaron-god.github.io/repo/description/index.html?id=Shadowrocket
 Description: Shadowrocket
 Author: Aaron
 Depiction: https://aaron-god.github.io/repo/description/index.html?id=Shadowrocket
