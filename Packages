@@ -1,19 +1,55 @@
+Package: aaron.quantumult
+Version: 2.2.13
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Depends: firmware (>= 11.0)
+Filename: ./debs/aaron.quantumult_2.2.13_iphoneos-arm.deb
+Size: 5349816
+MD5sum: 3f2da07274524e3cc3db5c8c0c55832b
+SHA1: 6db28c5abb3d90b41f70e252200393f6433be545
+SHA256: 09857027994dd7d47c7d28ce67df5b4f33bbd9157c014da570b57cd7fad5858b
+Section: Aaron-应用(Applications)
+Homepage: https://sileo.vip/description/index.html?id=Quantumult
+Description: Quantumult
+Depiction: https://sileo.vip/description/index.html?id=Quantumult
+Icon: https://sileo.vip/assets/img/app.png
+Name: Quantumult
+Sileodepiction: https://sileo.vip/description/Shadowrocket/Quantumult.json
+
+Package: aaron.quantumultx
+Version: 1.0.7
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/aaron.quantumultx_1.0.7_iphoneos-arm.deb
+Size: 5321848
+MD5sum: d2c54a67b1cf4318f1e1079aaa47466c
+SHA1: 339cbbad88da04cd49e7d4294b08e97fd803d8c1
+SHA256: f3025bad6e130e9902c0691a456f2f34410e3d3b9ca25a8dd19826d7c1befed3
+Section: Aaron-应用(Applications)
+Homepage: https://sileo.vip/description/index.html?id=Quantumultx
+Description: Quantumult
+Depiction: https://sileo.vip/description/index.html?id=Quantumultx
+Icon: https://sileo.vip/assets/img/app.png
+Name: Quantumult X
+Sileodepiction: https://sileo.vip/description/Shadowrocket/Quantumultx.json
+
 Package: aaron.shadowrocket
 Version: 2.1.48
 Architecture: iphoneos-arm
 Maintainer: Aaron <851302227@qq.com>
 Depends: firmware (>= 11.0)
 Filename: ./debs/aaron.shadowrocket_2.1.48_iphoneos-arm.deb
-Size: 14281152
-MD5sum: 33ad387e41c6ea669e0fb2d55e7bedd5
-SHA1: 6153fd607bb4cc9a5fa2f5ebd57d5244e8f029f9
-SHA256: e6f08bd9c2647968d553b19b5bf7852dbea314be462dfdfd23fb7bb09b9ef9c9
+Size: 14281140
+MD5sum: ab326cf141cfdbb278607d453107c514
+SHA1: c8efd90c87669a8db40f12fb776a889dcbdcce4a
+SHA256: 56ab0a6a1584727b4f7595d5a56a4dda3dfcdf2333ea6748994fcf7707f9fc3a
 Section: Aaron-应用(Applications)
-Homepage: https://aaron-god.github.io/repo/description/index.html?id=Shadowrocket
+Homepage: https://sileo.vip/description/index.html?id=Shadowrocket
 Description: Shadowrocket
 Author: Aaron
-Depiction: https://aaron-god.github.io/repo/description/index.html?id=Shadowrocket
-Icon: https://aaron-god.github.io/repo/assets/img/app.png
+Depiction: https://sileo.vip/description/index.html?id=Shadowrocket
+Icon: https://sileo.vip/assets/img/app.png
 Name: Shadowrocket
-Sileodepiction: https://aaron-god.github.io/repo/description/Shadowrocket/Shadowrocket.json
+Sileodepiction: https://sileo.vip/description/Shadowrocket/Shadowrocket.json
 
