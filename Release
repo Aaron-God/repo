@@ -1,9 +1,8 @@
-Origin: Aaron
-Label: Tccpg
+Origin: Aaron's Repo
+Label: Aaron's Repo
 Suite: stable
-Version: 1.7
-Codename: Tccpg
-Architectures: iphoneos-arm
+Version: 1.0
+Codename: Aaron's Repo
+Architecture: iphoneos-arm
 Components: main
-Description: Aaron
-
+Description: Aaron's Repo

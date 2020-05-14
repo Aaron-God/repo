@@ -1,0 +1,2 @@
+bash -c "cd /Users/aaron/Desktop/GitHub/repo/description/sileo_description; ./描述文件编辑.sh"
+exit

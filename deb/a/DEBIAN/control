@@ -1,0 +1,11 @@
+Package: aaron.shadowrocket
+Name: Shadowrocket
+Author: Aaron
+Version: 2.1.48
+Depends: firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: Shadowrocket
+Depiction: Shadowrocket
+Maintainer: Aaron <851302227@qq.com>
+Section: Aaron-应用(Applications)
+Icon: https://aaron-god.github.io/repo/assets/img/app.png
