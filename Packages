@@ -5,9 +5,9 @@ Maintainer: Aaron <851302227@qq.com>
 Depends: firmware (>= 11.0)
 Filename: ./debs/aaron.shadowrocket_2.1.48_iphoneos-arm.deb
 Size: 14281120
-MD5sum: ec2f37e369615b5321dd9e4557aa48dc
-SHA1: aa5cc67d7b22eb8f3416d5bd276f8835db69a7de
-SHA256: 866f189b1171a4d4c8e48be2d56fb77ad62ca3b1598aa875af80dd2770ff6fb3
+MD5sum: 5ecbc02bb0e7a11ea982aa1b9cec7a83
+SHA1: 4ddbc3fc475a76b5d2d7fce11450e4ba917242c9
+SHA256: 9a16ad32dd9cdd7585ab04628482a659564639f921874a2757616fc9c9166e23
 Section: Aaron-应用(Applications)
 Description: Shadowrocket
 Author: Aaron
@@ -15,4 +15,5 @@ Depiction: Shadowrocket
 Icon: https://aaron-god.github.io/repo/assets/img/app.png
 Name: Shadowrocket
 Sileodepiction: https://aaron-god.github.io/repo/assets/json/Shadowrocket.json
+Depiction: https://aaron-god.github.io/repo/description/cydia_description/index.html
 
