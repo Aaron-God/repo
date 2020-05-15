@@ -111,6 +111,42 @@ Icon: https://aaronc.cn/img/weixin.jpg
 Name: WeChat【快速备注】
 Sileodepiction: https://aaronc.cn/sileo.json
 
+Package: aaron.AdBlocker
+Version: 7.1
+Architecture: iphoneos-arm
+Maintainer: Aaron
+Depends: firmware (>= 8.0)
+Filename: ./debs/aaron.adblocker_7.1_iphoneos-arm.deb
+Size: 8778296
+MD5sum: 34c424c816239e3b5cf6e85b7cd6ce00
+SHA1: 01db31257ee293739fc73e88444ccbcfb96f2b32
+SHA256: f51b0ce8d0df33d0aaae7b23d8e700a1c514e267a6fcb1a395b35704a74c4cd0
+Section: Aaron-应用(Applications)
+Description: AdBlocker Safari浏览器去广告拦截
+Author: Aaron
+Icon: https://aaronc.cn/img/AdBlocker.png
+Name: AdBlocker【砸壳直装版本】
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: Aaron <851302227@qq.com>
+
+Package: aaron.DocumentScannerPRO
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: Aaron
+Depends: firmware (>= 8.0)
+Filename: ./debs/aaron.documentscannerpro_1.2.3_iphoneos-arm.deb
+Size: 14022516
+MD5sum: 6d3de7449333570be7d87dd8cf02e126
+SHA1: 446eee9ccf58b6af76879c97935744536fbd5204
+SHA256: 99a3ac9668b13aa269cc9f7aa1636b0c47723bb06cc36e2421ed358e0bc4687f
+Section: Aaron-应用(Applications)
+Description: Document Scanner PRO 超好用的PDF转换器
+Author: Aaron
+Icon: https://aaronc.cn/img/pdf.png
+Name: Document Scanner PRO【砸壳直装版本】
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: Aaron <851302227@qq.com>
+
 Package: aaron.FakeTransfer
 Version: 0.1-1
 Architecture: iphoneos-arm
@@ -248,6 +284,42 @@ Name: DisableAlert【全局弹窗屏蔽】
 Sileodepiction: https://aaronc.cn/sileo.json
 Sponsor: Aaron
 
+Package: aaron.mail
+Version: 6.21.1
+Architecture: iphoneos-arm
+Maintainer: Aaron
+Depends: firmware (>= 8.0)
+Filename: ./debs/aaron.mail_6.21.1_iphoneos-arm.deb
+Size: 43004076
+MD5sum: 201e34de6bfbca3c32c54645ad3af29c
+SHA1: 89c77474e979731757a646c0d8059b683cb0e62f
+SHA256: 7b6712a616f90f3d5d8255aa627e86b0ae00ba2c672a5c02e9556314fa50ede6
+Section: Aaron-应用(Applications)
+Description: 网易邮箱大师ipa转deb
+Author: Aaron
+Icon: https://aaronc.cn/img/mail.png
+Name: 网易邮箱大师【砸壳直装版本】
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: Aaron <851302227@qq.com>
+
+Package: aaron.ocr
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: Aaron
+Depends: firmware (>= 8.0)
+Filename: ./debs/aaron.ocr_1.1.3_iphoneos-arm.deb
+Size: 12612180
+MD5sum: 0fb8b2b8eaf612838e3fb44ffd52c365
+SHA1: 1113d1265e4883dfca58445e6146d57a5454845e
+SHA256: c766b80509c3fc596edeb65173a77cb74e873e952330cbd75e21105e2cb79cab
+Section: Aaron-应用(Applications)
+Description: 识图取字Pro 付费应用砸壳转deb
+Author: Aaron
+Icon: https://aaronc.cn/img/ocr.png
+Name: 识图取字Pro【砸壳直装版本】
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: Aaron <851302227@qq.com>
+
 Package: aaron.quantumult
 Version: 2.2.13
 Architecture: iphoneos-arm
@@ -286,15 +358,15 @@ Architecture: iphoneos-arm
 Maintainer: Aaron <851302227@qq.com>
 Depends: firmware (>= 11.0)
 Filename: ./debs/aaron.shadowrocket_2.1.48_iphoneos-arm.deb
-Size: 14281400
-MD5sum: 5e18797f17b398b556ae4a26d0f9c487
-SHA1: ef44d7a17ab963f0f53a3950f29e8cedba7ead80
-SHA256: f0a0e95f40854b67168990ec8f67ca39de9771790b00784e9a37e3e4512047c8
+Size: 14285540
+MD5sum: 9a62bf9cac01276dbc2ba61f846f68cf
+SHA1: fdec89ea9a6ec45342c38fb4f9718c530f273887
+SHA256: de2fb46d4a931d74f751a695f024554b13acf5be785bdcd7d165ad3a52208c52
 Section: Aaron-应用(Applications)
 Description: Shadowrocket
 Author: Aaron
 Icon: https://aaronc.cn/img/shadowrocked.png
-Name: Shadowrocket
+Name: Shadowrocket【砸壳直装版本】
 Sileodepiction: https://aaronc.cn/sileo.json
 
 Package: aaron.sileodemo
@@ -303,10 +375,10 @@ Architecture: iphoneos-arm
 Maintainer: Aaron
 Depends: firmware (>= 8.0)
 Filename: ./debs/aaron.sileodemo_1.6.0_iphoneos-arm.deb
-Size: 5165028
-MD5sum: 8effe544661122deccfdeeaae22e752e
-SHA1: 71135c7cf47144dec81ae91f87c55e88e870066c
-SHA256: ce8ca706a950b49ffe92a4bd28487ed02f7e17d0c9e0f3cc14837af2dca1dba4
+Size: 5164456
+MD5sum: 638436a88b7153791e3a5d98a5c128d2
+SHA1: 2ab706c68b1e6cfa09beb149695bdb5f2241c28c
+SHA256: 11630f3fd7589ca5484313c56852d9a3734c582f6453cf63362044fae000abef
 Section: Aaron-应用(Applications)
 Description: Sileo演示版 配合Sileo Demo Download 可保存插件
 Author: Aaron
