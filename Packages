@@ -125,11 +125,11 @@ Architecture: iphoneos-arm
 Maintainer: Aaron
 Depends: firmware (>= 8.0)
 Filename: ./debs/aaron.sileodemo_1.6.0_iphoneos-arm.deb
-Size: 5167224
-MD5sum: df0791b588b22aa0a7e888aecd179651
-SHA1: 1f549ce97a85dca1844146caf314be350455560b
-SHA256: 6caf23dfecd0b2cef82390a437b9ff3f3a8bac003e6b5976e8f1daefb955bdf8
-Section: Aaron-软件(Applications)
+Size: 5165028
+MD5sum: 8effe544661122deccfdeeaae22e752e
+SHA1: 71135c7cf47144dec81ae91f87c55e88e870066c
+SHA256: ce8ca706a950b49ffe92a4bd28487ed02f7e17d0c9e0f3cc14837af2dca1dba4
+Section: Aaron-应用(Applications)
 Description: Sileo演示版 配合Sileo Demo Download 可保存插件
 Author: Aaron
 Icon: https://aaronc.cn/img/sileo.png
