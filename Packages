@@ -1,3 +1,22 @@
+Package: Aaron.game.speedplus
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/aaron.game.speedplus_1.2_iphoneos-arm.deb
+Size: 898172
+MD5sum: ea0e485d61b3efc0f8e7258182c36a01
+SHA1: 7b93a6c73ea2926f9f1790d59b231e4850ffcd40
+SHA256: 34bf2474a5356cbe128eff526c19c835554dab3b3491e9f3c45b8df857e30c1b
+Section: Aaron-游戏(Games)
+Priority: optional
+Description: 加速器，目前内置《我功夫特牛》《剑与远征》《Safari浏览器》修改的话直接修改plist文件即可
+Author: Aaron
+Icon: https://aaronc.cn/img/game.jpg
+Name: Game【加速器】
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: Aaron <851302227@qq.com>
+
 Package: Aaron.jsboxcrack
 Version: 1.0
 Architecture: iphoneos-arm
@@ -216,15 +235,15 @@ Maintainer: Aaron
 Installed-Size: 164
 Depends: mobilesubstrate
 Filename: ./debs/aaron.disablealerts1_2.3.0_iphoneos-arm.deb
-Size: 17408
-MD5sum: 22a492173e97b53a50a8bd396c88a09e
-SHA1: a026f65be53ee726402e637f752e5f143c12f240
-SHA256: 11c9d45f3918d51187e34877cad51e714499ba80eb93ac9597c39ebdb8e9aeae
+Size: 17412
+MD5sum: 092c4edc03321ffd24a088ed44235b1d
+SHA1: 2bd83d4ea7fee261bcc7dce62ccb91c528107270
+SHA256: 9110793d28d92be881c93e1ef8ad1ebb4df8033afa85164f3cba90e9c3977e4d
 Section: Aaron-插件(Tweaks)
 Description: 屏蔽系统和应用程序弹窗
 A12: 0
 Author: aReo
-Icon: https://aaronc.cn/img/system.jpg
+Icon: https://aaronc.cn/img/tweak.jpg
 Name: DisableAlert【全局弹窗屏蔽】
 Sileodepiction: https://aaronc.cn/sileo.json
 Sponsor: Aaron
@@ -259,6 +278,23 @@ Section: Aaron-应用(Applications)
 Description: Quantumult
 Icon: https://aaronc.cn/img/quantumultx.jpg
 Name: Quantumult X【砸壳直装版本】
+Sileodepiction: https://aaronc.cn/sileo.json
+
+Package: aaron.shadowrocket
+Version: 2.1.48
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Depends: firmware (>= 11.0)
+Filename: ./debs/aaron.shadowrocket_2.1.48_iphoneos-arm.deb
+Size: 14281400
+MD5sum: 5e18797f17b398b556ae4a26d0f9c487
+SHA1: ef44d7a17ab963f0f53a3950f29e8cedba7ead80
+SHA256: f0a0e95f40854b67168990ec8f67ca39de9771790b00784e9a37e3e4512047c8
+Section: Aaron-应用(Applications)
+Description: Shadowrocket
+Author: Aaron
+Icon: https://aaronc.cn/img/shadowrocked.png
+Name: Shadowrocket
 Sileodepiction: https://aaronc.cn/sileo.json
 
 Package: aaron.sileodemo
