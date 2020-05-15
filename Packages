@@ -5,11 +5,11 @@ Maintainer: Nets
 Installed-Size: 580
 Depends: mobilesubstrate
 Filename: ./debs/aaron.wechatctx_1.0-1_iphoneos-arm.deb
-Size: 112020
-MD5sum: e088bb853fb613ceb833649a34da2319
-SHA1: 253100e7f3e2db8978a1aed4b07d5ce1e1f7e48a
-SHA256: 1d0df94c0bffa781ff6c335852f1a95ddd2c5755c493075dd4fb01f9658d09e8
-Section: WeChat
+Size: 112136
+MD5sum: 6f1767fb7032836b58c3fd7d7937524b
+SHA1: 6492597fa540df5f5a8bcc1395a9e766c8b6fb57
+SHA256: 128725e4d38beaa71113473e48897ca977e801c0eb0b76a0987b7fafc8ac6938
+Section: Aaron-微信(WeChat)
 Description: 微信允许长图片头像上传，也别太长或图片太大吧，可能会上传失败
 Author: Netskao
 Icon: https://aaronc.cn/img/weixin.jpg
@@ -56,13 +56,13 @@ Architecture: iphoneos-arm
 Maintainer: c0pyn1nja
 Depends: firmware (>= 11.0)
 Filename: ./debs/aaron.crackerxi_1.1.16_iphoneos-arm.deb
-Size: 6191376
-MD5sum: 3c2bef986f2402e4d3080d5a0f256868
-SHA1: a6c23f53a0933703fd953d07b254d910656e9ee0
-SHA256: 6b358f36b3c46aad9b6084c9671530727099862338aed9e8654a0096d201783f
+Size: 6188056
+MD5sum: ca4c500bd0edc14b7c6594d525a88345
+SHA1: f6581ccecce1e6e110d16500e63f23d8a8f4ff89
+SHA256: 3bb89589d201367d4d58383de2c1115086ae5bfa03766903fa9d3b74189cb66b
 Section: Aaron-开发(Development)
 Description: IOS砸壳插件
-Icon: https://aaronc.cn/img/cracksl.png
+Icon: https://aaronc.cn/img/crackxl.png
 Name: CrackerXI+【砸壳工具】
 Sileodepiction: https://aaronc.cn/sileo.json
 Website: https://ipastore.me
@@ -93,14 +93,14 @@ Architecture: iphoneos-arm
 Maintainer: Aaron <851302227@qq.com>
 Depends: firmware (>= 11.0)
 Filename: ./debs/aaron.quantumult_2.2.13_iphoneos-arm.deb
-Size: 5349220
-MD5sum: 75e3a35643852bcd1e514b2013d8811c
-SHA1: 408e74fb4a8c624acb6129f5741d3a326ce68edf
-SHA256: 2f97f8d8576e36043da476ef6ecbee4fa5240d525c147e5ea669627c497281bc
+Size: 5351360
+MD5sum: 1a2f640ab9ee54e24b999115d4b4f8c0
+SHA1: 5bc3e2660b382be07f735d68a2c2bf48e21449aa
+SHA256: 2726b89cf37946fe3c019907d9b0cb6cd9954aadb38e2c95f46d4a088fff21f2
 Section: Aaron-应用(Applications)
-Description: Quantumult【砸壳直装版本】
+Description: Quantumult
 Icon: https://aaronc.cn/img/quantumult.png
-Name: Quantumult
+Name: Quantumult【砸壳直装版本】
 Sileodepiction: https://aaronc.cn/sileo.json
 
 Package: aaron.quantumultx
