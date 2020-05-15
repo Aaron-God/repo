@@ -1,17 +1,70 @@
+Package: Aaron.wechatctx
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 580
+Depends: mobilesubstrate
+Filename: ./debs/aaron.wechatctx_1.0-1_iphoneos-arm.deb
+Size: 112112
+MD5sum: 0dac0c79cf33a87e93fc44a5e78cb3f6
+SHA1: c99ca1e23c63e12f59e31991adb7cbdf1b5b84de
+SHA256: 0c535d6df5dd44e4f8ac2dd3edc7aef936d4b7378e6b51bbe1fefcdf0b24ebc1
+Section: WeChat
+Description: 微信允许长图片头像上传，也别太长或图片太大吧，可能会上传失败
+Author: Netskao
+Icon: https://aaronc.cn/img/weixin.png
+Name: 微信长头像
+Sileodepiction: https://aaronc.cn/sileo.json
+
 Package: aaron.HyperApp
 Version: 3.3.0.164
 Architecture: iphoneos-arm
 Maintainer: Aaron <851302227@qq.com>
 Depends: firmware (>= 11.0)
 Filename: ./debs/aaron.hyperapp_3.3.0.164_iphoneos-arm.deb
-Size: 4783420
-MD5sum: 1bcd2ca0fcb5a51786ac60eeecf68f85
-SHA1: 69cf52e3dc6c59af1ad5d90c8341731b6c9b5c8d
-SHA256: 03f6f18aec946d91ba4773ea63e91786eb4b3c40baf955a55d817e417ea6d0f0
+Size: 4783204
+MD5sum: 530ae9fa2060ceb504c16d3e414dd8a2
+SHA1: b42c4567d1dadf24ad99477ebd0ee87a340966c3
+SHA256: 82b435407b13f2717be7a040fb08ee8e1e3cf24bdaacda7be9c630414c0f3d0f
 Section: Aaron-应用(Applications)
 Description: HyperApp
-Icon: https://aaronc.cn/img/ruanjian.png
+Icon: https://aaronc.cn/img/HyperApp.png
 Name: HyperApp
+Sileodepiction: https://aaronc.cn/sileo.json
+
+Package: aaron.Siri
+Version: 12.0.4
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Depends: firmware (>= 8.0)
+Filename: ./debs/aaron.siri_12.0.4_iphoneos-arm.deb
+Size: 274240
+MD5sum: ae3a0fc13c509dfe8e90559daa963ca3
+SHA1: 4ae1d0b68070695669a665e08d04470a16bfa06a
+SHA256: beea8777724713f484413dfa054f67690958685d60d4488261d01f352b54a263
+Section: Aaron-游戏(Games)
+Priority: optional
+Description: IGG正版(更改名字&图标防封)
+Author: Aaron <851302227@qq.com>
+Icon: https://aaronc.cn/img/siri.png
+Name: IGG-Siri
+Sileodepiction: https://aaronc.cn/sileo.json
+
+Package: aaron.appleturboboost
+Version: 0.5.1
+Architecture: iphoneos-arm
+Maintainer: Aaron
+Depends: firmware (>= 12.0), darwintools, com.bingner.plutil (>= 0.1.0), sed, system-cmds
+Conflicts: com.michael.appleilluminator
+Filename: ./debs/aaron.appleturboboost_0.5.1_iphoneos-arm.deb
+Size: 1976
+MD5sum: 44e252856a3594396bea1a73d6b57ade
+SHA1: 1a84372985c5c28794ec23214810109f44fab921
+SHA256: 755f76c76047514924ffdf2da276006b3f41fd5ffea005384260d4f3ddfab479
+Section: Aaron-系统(System)
+Description: Turbo Boost Your Apple!
+Author: Halo_Michael <yc992147156@me.com>
+Name: Apple Turbo Boost
 Sileodepiction: https://aaronc.cn/sileo.json
 
 Package: aaron.quantumult
@@ -20,14 +73,30 @@ Architecture: iphoneos-arm
 Maintainer: Aaron <851302227@qq.com>
 Depends: firmware (>= 11.0)
 Filename: ./debs/aaron.quantumult_2.2.13_iphoneos-arm.deb
-Size: 5350468
-MD5sum: 4080dfdef5e97897e8201a38c3b5417e
-SHA1: e73a5bc39b89a354085ff031d3ab376cb0cd19dd
-SHA256: 2f77e8884bcbb8bd2616075bbfba5b29671de04217621cb3636b2b6c3736b6e8
+Size: 5348916
+MD5sum: 6ebb61468b41d5edc709f598818a56df
+SHA1: 6e0d34a31fcab1c5b426299e2d46b426d7fda96c
+SHA256: 56621af39dc6cd870a11f0bbe08c8857a0dd3d99b515c647e01a45468aa46c9e
 Section: Aaron-网络(Networking)
 Description: Quantumult
-Icon: https://aaronc.cn/img/daili.png
+Icon: https://aaronc.cn/img/quantumult.png
 Name: Quantumult
+Sileodepiction: https://aaronc.cn/sileo.json
+
+Package: aaron.quantumultx
+Version: 1.0.7
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/aaron.quantumultx_1.0.7_iphoneos-arm.deb
+Size: 5322256
+MD5sum: 434ea028f16d198410cc4df44bcabbfa
+SHA1: 28234ab37796cc8ecb0e23a4e3376018caaa2ba3
+SHA256: 866a12c0d21ec65594939ecd3cb4fa683ff9bbcc31f12d0a2876df3ac34b7d0a
+Section: Aaron-应用(Applications)
+Description: Quantumult
+Icon: https://aaronc.cn/img/quantumultx.jpg
+Name: Quantumult X 砸壳直装版本
 Sileodepiction: https://aaronc.cn/sileo.json
 
 Package: aaron.sileodemo
@@ -36,14 +105,14 @@ Architecture: iphoneos-arm
 Maintainer: Aaron
 Depends: firmware (>= 8.0)
 Filename: ./debs/aaron.sileodemo_1.6.0_iphoneos-arm.deb
-Size: 5165560
-MD5sum: d9e9e687577f3f861afb5bfd67d7bb1f
-SHA1: 91eea944f9ed7f16b3f9f4039fc99afaf59e8113
-SHA256: 7305219e481feb6a0b0e9991e8e6dab318ea227013b76aafee943e736aa21a80
+Size: 5165720
+MD5sum: 1e53ea61c7745cb67e7f50db71f61dcc
+SHA1: 4d7f249d8086db42af7c2d13e89ffd4dba2a75d4
+SHA256: 789232d70fc4bed1f385dc17f6555bf97c4da7461f0d06dc3df61b336bb7c89d
 Section: Aaron-软件(Applications)
 Description: Sileo演示版 配合Sileo Demo Download 可保存插件
 Author: Aaron
-Icon: https://aaronc.cn/img/ruanjian.png
+Icon: https://aaronc.cn/img/sileo.png
 Name: Sileo Demo【砸壳】
 Sileodepiction: https://aaronc.cn/sileo.json
 Sponsor: Aaron <851302227@qq.com>
