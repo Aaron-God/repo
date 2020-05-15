@@ -18,6 +18,26 @@ Name: JSBox【去除共享限制】
 Sileodepiction: https://aaronc.cn/sileo.json
 Sponsor: Aaron
 
+Package: Aaron.thorcrack
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Aaron
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/aaron.thorcrack_1.1_iphoneos-arm.deb
+Size: 9628
+MD5sum: 04f87c7872ae61ae5991db5085539a33
+SHA1: 8bf0adbefddc780b8eed88f2a07bdfb86f0ab2ea
+SHA256: d235bd32d7ef0fe00640c3258294638096bbeb65d0b28e079f45a128e2cfa861
+Section: Aaron-破解(Crack)
+Description: Thor 移除盗版验证弹窗，可查看编辑所有过滤器断点
+A12: 1
+Author: Aaron
+Icon: https://aaronc.cn/img/thor.png
+Name: Thor【去盗版验证，编辑断点】
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: Aaron
+
 Package: Aaron.wechatctx
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -161,14 +181,14 @@ Maintainer: Aaron
 Depends: firmware (>= 12.0), darwintools, com.bingner.plutil (>= 0.1.0), sed, system-cmds
 Conflicts: com.michael.appleilluminator
 Filename: ./debs/aaron.appleturboboost_0.5.1_iphoneos-arm.deb
-Size: 2012
-MD5sum: b49f73440297a033db576d2970596167
-SHA1: 2fbc7bf24701b73391c327ddc4dc0d502fd7fa86
-SHA256: 46360bac1cabef8b9f27eae9e64a98a8b73536dd81b3ff0b5da5b84013b04889
+Size: 2016
+MD5sum: d2a132316a424dd46daa67a861d1b97b
+SHA1: f97cc29c59160f09d6f49a94d0ce35a34eb8437e
+SHA256: ce8d9dcfa30789573e695aa3cd1903ad081c006ae4e2791e08097023d9794c1b
 Section: Aaron-系统(System)
 Description: Turbo Boost Your Apple!
 Author: Halo_Michael <yc992147156@me.com>
-Icon: https://aaronc.cn/img/system.png
+Icon: https://aaronc.cn/img/system.jpg
 Name: Apple Turbo Boost【解除降频】
 Sileodepiction: https://aaronc.cn/sileo.json
 
@@ -196,15 +216,15 @@ Maintainer: Aaron
 Installed-Size: 164
 Depends: mobilesubstrate
 Filename: ./debs/aaron.disablealerts1_2.3.0_iphoneos-arm.deb
-Size: 17416
-MD5sum: d44367c93c8b5552a6bc2a1c307da92d
-SHA1: caea2c323753556ef0d60d78e876b88bce450ea9
-SHA256: 7397151eea7c71bd49d66cd462919cf008863ed0d58d278f6ff91580c2770b91
+Size: 17408
+MD5sum: 22a492173e97b53a50a8bd396c88a09e
+SHA1: a026f65be53ee726402e637f752e5f143c12f240
+SHA256: 11c9d45f3918d51187e34877cad51e714499ba80eb93ac9597c39ebdb8e9aeae
 Section: Aaron-插件(Tweaks)
 Description: 屏蔽系统和应用程序弹窗
 A12: 0
 Author: aReo
-Icon: https://aaronc.cn/img/tweaks.png
+Icon: https://aaronc.cn/img/system.jpg
 Name: DisableAlert【全局弹窗屏蔽】
 Sileodepiction: https://aaronc.cn/sileo.json
 Sponsor: Aaron
@@ -258,24 +278,4 @@ Icon: https://aaronc.cn/img/sileo.png
 Name: Sileo Demo【砸壳直装版本】
 Sileodepiction: https://aaronc.cn/sileo.json
 Sponsor: Aaron <851302227@qq.com>
-
-Package: com.Aaron.thorcrack
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Aaron
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/com.aaron.thorcrack_1.1_iphoneos-arm.deb
-Size: 9616
-MD5sum: 774f293482bf9d896b5072a34ebfc7d9
-SHA1: e61ff7b74269970c62aa88ba211a025d6d2e13ed
-SHA256: ce18191c648536471c98f4e370e7905b3221eca100f22f2014d2d7b82febde5f
-Section: Crack
-Description: Thor 移除盗版验证弹窗，可查看编辑所有过滤器断点
-A12: 1
-Author: Aaron
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Icon2: 1.png
-Name: Thor断点编辑高级版
-Sponsor: Aaron
 
