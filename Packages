@@ -50,6 +50,23 @@ Icon: https://aaronc.cn/img/system.png
 Name: Apple Turbo Boost【解除降频】
 Sileodepiction: https://aaronc.cn/sileo.json
 
+Package: aaron.crackerxi
+Version: 1.1.16
+Architecture: iphoneos-arm
+Maintainer: c0pyn1nja
+Depends: firmware (>= 11.0)
+Filename: ./debs/aaron.crackerxi_1.1.16_iphoneos-arm.deb
+Size: 6191376
+MD5sum: 3c2bef986f2402e4d3080d5a0f256868
+SHA1: a6c23f53a0933703fd953d07b254d910656e9ee0
+SHA256: 6b358f36b3c46aad9b6084c9671530727099862338aed9e8654a0096d201783f
+Section: Aaron-开发(Development)
+Description: IOS砸壳插件
+Icon: https://aaronc.cn/img/cracksl.png
+Name: CrackerXI+【砸壳工具】
+Sileodepiction: https://aaronc.cn/sileo.json
+Website: https://ipastore.me
+
 Package: aaron.disablealerts1
 Version: 2.3.0
 Architecture: iphoneos-arm
