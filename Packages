@@ -1,3 +1,23 @@
+Package: Aaron.jsboxcrack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Aaron
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: ./debs/aaron.jsboxcrack_1.0_iphoneos-arm.deb
+Size: 7020
+MD5sum: fc0816074beac1d1d2350aced91b7c1b
+SHA1: df9f1e600b6343d7bbb2973ce793db205f4b7b86
+SHA256: 5d3378c617b07024427302cbd0341f9a730624280bb9411ecafd7c867d938919
+Section: Aaron-破解(Crack)
+Description: JSBox 移除盗版验证弹窗
+A12: 1
+Author: Netskao
+Icon: https://aaronc.cn/img/jsbox.png
+Name: JSBox【去除共享限制】
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: Aaron
+
 Package: Aaron.wechatctx
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -16,6 +36,74 @@ Icon: https://aaronc.cn/img/weixin.jpg
 Name: 微信【长头像】
 Sileodepiction: https://aaronc.cn/sileo.json
 
+Package: Aaron.wechatnullinfo
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: ./debs/aaron.wechatnullinfo_1.1-1_iphoneos-arm.deb
+Size: 44768
+MD5sum: 846364f9cf6320e0f017c849598eb442
+SHA1: 2c32d48f7a9467f674b41c177b841f9cfc786aa0
+SHA256: d4759fe504301c3fc38b9ffaa831577b64c540e94f51748d7e302e6b1a0f7956
+Section: Aaron-微信(WeChat)
+Description: 微信清除性别，使用方法:安装后进入微信设置随意选择性别即可生效，修改完毕后即可卸载，感谢Gawain__的思路
+Author: 7Loopy
+Icon: https://aaronc.cn/img/weixin.jpg
+Name: 微信【清除性别】
+Sileodepiction: https://aaronc.cn/sileo.json
+
+Package: Aaron.wechatremark
+Version: 0.0.3-1+debug
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: ./debs/aaron.wechatremark_0.0.3-1+debug_iphoneos-arm.deb
+Size: 11144
+MD5sum: 0cdc8dc1ab6091231c27ec6fdc51dd6a
+SHA1: fb76722f0fde925fa3639b62c61423e20bf8e67e
+SHA256: 1a789b7d6e4aa6088e230d3e88da7d5a59761e86a76234079f649bc5448085f3
+Section: Aaron-微信(WeChat)
+Description: 快速更改好友备注插件：在好友聊天界面直接输入"备注 新的备注"（注意中间有空格）
+Author: xia0
+Icon: https://aaronc.cn/img/weixin.jpg
+Name: WeChat【快速备注】
+Sileodepiction: https://aaronc.cn/sileo.json
+
+Package: aaron.FakeTransfer
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/aaron.faketransfer_0.1-1_iphoneos-arm.deb
+Size: 22048
+MD5sum: 04972aa043d8149301c5e3cad69452a0
+SHA1: 7a4a1c76db97e38adf6b8ec9c0cd3e74e42fb8bd
+SHA256: cf21c74f2aeec2c9faf4a926439996ccf7d6dc97d05dc1881a29e869bab71f08
+Section: Aaron-微信(WeChat)
+Priority: optional
+Author: Mao
+Icon: https://aaronc.cn/img/weixin.jpg
+Name: 微信【修改转账金额】
+Sileodepiction: https://aaronc.cn/sileo.json
+
+Package: aaron.GameLogin
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/aaron.gamelogin_0.1-1_iphoneos-arm.deb
+Size: 21532
+MD5sum: b858d4bcb430f5f88d1fe8db4d07c893
+SHA1: c855b3a186126a2f8265e5bf6d6e4d01c1d75bb7
+SHA256: 4b72c9562adb9dddf7f3a0fa6ea9beb2cf8f7753f09bb3e925f5ce734fbd8b8a
+Section: Aaron-微信(WeChat)
+Priority: optional
+Author: Mao
+Icon: https://aaronc.cn/img/weixin.jpg
+Name: 腾讯游戏【扫码登录】
+Sileodepiction: https://aaronc.cn/sileo.json
+
 Package: aaron.HyperApp
 Version: 3.3.0.164
 Architecture: iphoneos-arm
@@ -30,6 +118,40 @@ Section: Aaron-应用(Applications)
 Description: HyperApp
 Icon: https://aaronc.cn/img/HyperApp.png
 Name: HyperApp【砸壳直装版本】
+Sileodepiction: https://aaronc.cn/sileo.json
+
+Package: aaron.MiYou
+Version: 0.2-3
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/aaron.miyou_0.2-3_iphoneos-arm.deb
+Size: 123756
+MD5sum: b44ad1f2d3282773252cf49bca7182a2
+SHA1: 9614dbd07cb79c7e6e90cb9dddce5c0957e5ac9c
+SHA256: 808a4e5a20580a130fcb9ae4d38956e6b6e29b1ddd1bf4ac54f8b8ba9d91fa66
+Section: Aaron-微信(WeChat)
+Priority: optional
+Author: Mao
+Icon: https://aaronc.cn/img/weixin.jpg
+Name: 微信助手-密友
+Sileodepiction: https://aaronc.cn/sileo.json
+
+Package: aaron.WeChatHookPro
+Version: 0.3-5
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/aaron.wechathookpro_0.3-5_iphoneos-arm.deb
+Size: 1374008
+MD5sum: 528b27db37954c6f803c4540376d957b
+SHA1: 26bf349e83d8858f58ef2c43accdee7af81ce722
+SHA256: be2e8d3806d45873c379a2936b09517711942460fb4abd5339b4220d9ebf211c
+Section: Aaron-微信(WeChat)
+Priority: optional
+Author: Mao
+Icon: https://aaronc.cn/img/weixin.jpg
+Name: WeChatHookPro【微信助手】
 Sileodepiction: https://aaronc.cn/sileo.json
 
 Package: aaron.appleturboboost
@@ -136,4 +258,24 @@ Icon: https://aaronc.cn/img/sileo.png
 Name: Sileo Demo【砸壳直装版本】
 Sileodepiction: https://aaronc.cn/sileo.json
 Sponsor: Aaron <851302227@qq.com>
+
+Package: com.Aaron.thorcrack
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Aaron
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.aaron.thorcrack_1.1_iphoneos-arm.deb
+Size: 9616
+MD5sum: 774f293482bf9d896b5072a34ebfc7d9
+SHA1: e61ff7b74269970c62aa88ba211a025d6d2e13ed
+SHA256: ce18191c648536471c98f4e370e7905b3221eca100f22f2014d2d7b82febde5f
+Section: Crack
+Description: Thor 移除盗版验证弹窗，可查看编辑所有过滤器断点
+A12: 1
+Author: Aaron
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 1.png
+Name: Thor断点编辑高级版
+Sponsor: Aaron
 
