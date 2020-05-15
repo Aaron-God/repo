@@ -1,10 +1,10 @@
-Package: aaron.HyperApp
-Name: HyperApp
-Version: 3.3.0.164
-Depends: firmware (>= 11.0)
+Package: Aaron.wechatctx
+Version: 1.0-1
+Section: WeChat
+Maintainer: Nets
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: HyperApp
-Maintainer: Aaron <851302227@qq.com>
-Section: Aaron-应用(Applications)
-Icon: https://aaronc.cn/img/ruanjian.png
-Sileodepiction: https://aaronc.cn/sileo.json
+Installed-Size: 580
+Name: WeChat 长头像
+Author: Netskao
+Description: 微信允许长图片头像上传，也别太长或图片太大吧，可能会上传失败
