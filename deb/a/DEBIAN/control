@@ -1,0 +1,10 @@
+Package: aaron.HyperApp
+Name: HyperApp
+Version: 3.3.0.164
+Depends: firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: HyperApp
+Maintainer: Aaron <851302227@qq.com>
+Section: Aaron-应用(Applications)
+Icon: https://aaronc.cn/img/ruanjian.png
+Sileodepiction: https://aaronc.cn/sileo.json
