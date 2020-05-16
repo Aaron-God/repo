@@ -297,6 +297,24 @@ Name: CrackerXI+【砸壳工具】
 Sileodepiction: https://aaronc.cn/sileo.json
 Website: https://ipastore.me
 
+Package: aaron.dabaojian
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Depends: firmware (>= 11.0),mobilesubstrate
+Filename: ./debs/aaron.dabaojian_1.0_iphoneos-arm.deb
+Size: 8932412
+MD5sum: 9cebe394af9d3a4f2f111b59b2530bb7
+SHA1: 3eb4ded2e673a6436a080a5e1118cb6303c155a6
+SHA256: 4ad8aa1ba438a898c31e911badcc3da6d089fb53df6498cb9788175809964b66
+Section: Aaron-字体(Fonts)
+Description: Aaron最爱的大保健字体
+Author: Aaron
+Icon: https://aaronc.cn/img/Fonts.png
+Name: 大保健英文【英文100%】
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: Aaron
+
 Package: aaron.disablealerts1
 Version: 2.3.0
 Architecture: iphoneos-arm
@@ -352,6 +370,24 @@ Icon: https://aaronc.cn/img/ocr.png
 Name: 识图取字Pro【砸壳直装版本】
 Sileodepiction: https://aaronc.cn/sileo.json
 Sponsor: Aaron <851302227@qq.com>
+
+Package: aaron.oppogooglesans85
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Depends: firmware (>= 11.0),mobilesubstrate
+Filename: ./debs/aaron.oppogooglesans85_1.0_iphoneos-arm.deb
+Size: 45275196
+MD5sum: 8f56fed60866a587e87c3f64c900a6d4
+SHA1: aefc3c11ce9a279e3888af44c718dbd688a6bd84
+SHA256: 0152cf8a30b25485da1737312df96f8ddb41b723544f3689e69b88aeff77b968
+Section: Aaron-字体(Fonts)
+Description: OPPO中文+Google Sans英文85% 关注公众号：苏兔
+Author: 苏兔
+Icon: https://aaronc.cn/img/Fonts.png
+Name: OPPO Google【Sans多字重中英文85%】
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: Aaron
 
 Package: aaron.quantumult
 Version: 2.2.13
