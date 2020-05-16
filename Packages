@@ -247,6 +247,23 @@ Icon: https://aaronc.cn/img/system.jpg
 Name: Apple Turbo Boost【解除降频】
 Sileodepiction: https://aaronc.cn/sileo.json
 
+Package: aaron.chaojishiju15
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/aaron.chaojishiju15_1.4_iphoneos-arm.deb
+Size: 242304
+MD5sum: 3e94547ef142313d6e69d27f1a25efec
+SHA1: d4e21fd2c8516cdaec733c8dbaaacbdf262b195a
+SHA256: 872541e571a7a45f05ee69dd4f9ba1af35e1fb59535ce10fe0b2eeb17e831a38
+Section: Aaron-游戏(Games)
+Description: 使用前确保做好游戏的屏蔽越狱！解锁功能：①1.5倍视距
+Author: Smoking & Acreson
+Icon: https://aaronc.cn/img/game.jpg
+Name: 农药解锁1.5倍视野【辅助】
+Sileodepiction: https://aaronc.cn/sileo.json
+
 Package: aaron.crackerxi
 Version: 1.1.16
 Architecture: iphoneos-arm
@@ -386,4 +403,21 @@ Icon: https://aaronc.cn/img/sileo.png
 Name: Sileo Demo【砸壳直装版本】
 Sileodepiction: https://aaronc.cn/sileo.json
 Sponsor: Aaron <851302227@qq.com>
+
+Package: aaron.wzryshiju
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/aaron.wzryshiju_1.5_iphoneos-arm.deb
+Size: 242244
+MD5sum: ef0cd8b81e21ee9dba610de028c42c62
+SHA1: 0dc75e8ca0ad3985d8af6de9baec419d8a9c6464
+SHA256: 1c688ee710bda008099a65a820f20a3b2771b3f74fada12ccf095f61d9e249cd
+Section: Aaron-游戏(Games)
+Description: 解锁功能：①2倍视距
+Author: Smoking & Acreson
+Icon: https://aaronc.cn/img/game.jpg
+Name: 农药 2.33倍视野【辅助】
+Sileodepiction: https://aaronc.cn/sileo.json
 
