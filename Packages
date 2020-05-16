@@ -264,6 +264,22 @@ Icon: https://aaronc.cn/img/game.jpg
 Name: 农药解锁1.5倍视野【辅助】
 Sileodepiction: https://aaronc.cn/sileo.json
 
+Package: aaron.chaojishiju4
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/aaron.chaojishiju4_1.4_iphoneos-arm.deb
+Size: 242256
+MD5sum: 715db1b655773dde8e255d374563a5da
+SHA1: e11d7fb2c21487bc09c664cf132bc017d3889707
+SHA256: d7ea0bc26e5d988aad62a370f218b0ce169a69652489966b096b3201e4a2344d
+Section: Aaron-游戏(Games)
+Description: 解锁功能：①4倍视距
+Icon: https://aaronc.cn/img/game.jpg
+Name: 农药解锁4倍视野【辅助】
+Sileodepiction: https://aaronc.cn/sileo.json
+
 Package: aaron.crackerxi
 Version: 1.1.16
 Architecture: iphoneos-arm
