@@ -248,23 +248,6 @@ Name: Apple Turbo Boost【解除降频】
 Sileodepiction: https://aaronc.cn/sileo.json
 
 Package: aaron.chaojishiju15
-Version: 1.4
-Architecture: iphoneos-arm
-Maintainer: Aaron <851302227@qq.com>
-Depends: mobilesubstrate
-Filename: ./debs/aaron.chaojishiju15_1.4_iphoneos-arm.deb
-Size: 242304
-MD5sum: 3e94547ef142313d6e69d27f1a25efec
-SHA1: d4e21fd2c8516cdaec733c8dbaaacbdf262b195a
-SHA256: 872541e571a7a45f05ee69dd4f9ba1af35e1fb59535ce10fe0b2eeb17e831a38
-Section: Aaron-游戏(Games)
-Description: 使用前确保做好游戏的屏蔽越狱！解锁功能：①1.5倍视距
-Author: Smoking & Acreson
-Icon: https://aaronc.cn/img/game.jpg
-Name: 农药解锁1.5倍视野【辅助】
-Sileodepiction: https://aaronc.cn/sileo.json
-
-Package: aaron.chaojishiju15
 Version: 1.6
 Architecture: iphoneos-arm
 Maintainer: Smoking & Acreson
@@ -299,22 +282,6 @@ Icon: https://aaronc.cn/img/game.jpg
 Name: 农药解锁2倍视野【辅助】
 Sileodepiction: https://aaronc.cn/sileo.json
 Sponsor: Aaron <851302227@qq.com>
-
-Package: aaron.chaojishiju4
-Version: 1.4
-Architecture: iphoneos-arm
-Maintainer: Aaron <851302227@qq.com>
-Depends: mobilesubstrate
-Filename: ./debs/aaron.chaojishiju4_1.4_iphoneos-arm.deb
-Size: 242256
-MD5sum: 715db1b655773dde8e255d374563a5da
-SHA1: e11d7fb2c21487bc09c664cf132bc017d3889707
-SHA256: d7ea0bc26e5d988aad62a370f218b0ce169a69652489966b096b3201e4a2344d
-Section: Aaron-游戏(Games)
-Description: 解锁功能：①4倍视距
-Icon: https://aaronc.cn/img/game.jpg
-Name: 农药解锁4倍视野【辅助】
-Sileodepiction: https://aaronc.cn/sileo.json
 
 Package: aaron.chaojishiju4
 Version: 1.6
@@ -580,21 +547,4 @@ Icon: https://aaronc.cn/img/sileo.png
 Name: Sileo Demo【砸壳直装版本】
 Sileodepiction: https://aaronc.cn/sileo.json
 Sponsor: Aaron <851302227@qq.com>
-
-Package: aaron.wzryshiju
-Version: 1.5
-Architecture: iphoneos-arm
-Maintainer: Aaron <851302227@qq.com>
-Depends: mobilesubstrate
-Filename: ./debs/aaron.wzryshiju_1.5_iphoneos-arm.deb
-Size: 242276
-MD5sum: d9010238864529e272d1704924e8c487
-SHA1: 48c55cc47acf867fb5b5dcabd5fafaf0d1ea6049
-SHA256: df7151d5b980999ce851115aa999f6128746d48a2e68a8b4141403dd783aed97
-Section: Aaron-游戏(Games)
-Description: 解锁功能：①2倍视距
-Author: Smoking & Acreson
-Icon: https://aaronc.cn/img/game.jpg
-Name: 农药解锁2.33倍视野【辅助】
-Sileodepiction: https://aaronc.cn/sileo.json
 
