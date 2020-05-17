@@ -427,10 +427,10 @@ Architecture: iphoneos-arm
 Maintainer: Aaron <851302227@qq.com>
 Depends: firmware (>= 11.0)
 Filename: ./debs/aaron.shadowrocket_2.1.48_iphoneos-arm.deb
-Size: 14285540
-MD5sum: 9a62bf9cac01276dbc2ba61f846f68cf
-SHA1: fdec89ea9a6ec45342c38fb4f9718c530f273887
-SHA256: de2fb46d4a931d74f751a695f024554b13acf5be785bdcd7d165ad3a52208c52
+Size: 14282248
+MD5sum: 8cbacae5b77c8a779d5edeb5d2fef2f0
+SHA1: 5df4177ed1f231d940814f33e0f1bdf767178180
+SHA256: 4de1fe0952c206710550650e12b0e1923179070cd8c27e8a304bb153c2990804
 Section: Aaron-应用(Applications)
 Description: Shadowrocket
 Author: Aaron
@@ -462,14 +462,34 @@ Architecture: iphoneos-arm
 Maintainer: Aaron <851302227@qq.com>
 Depends: mobilesubstrate
 Filename: ./debs/aaron.wzryshiju_1.5_iphoneos-arm.deb
-Size: 242244
-MD5sum: ef0cd8b81e21ee9dba610de028c42c62
-SHA1: 0dc75e8ca0ad3985d8af6de9baec419d8a9c6464
-SHA256: 1c688ee710bda008099a65a820f20a3b2771b3f74fada12ccf095f61d9e249cd
+Size: 242276
+MD5sum: d9010238864529e272d1704924e8c487
+SHA1: 48c55cc47acf867fb5b5dcabd5fafaf0d1ea6049
+SHA256: df7151d5b980999ce851115aa999f6128746d48a2e68a8b4141403dd783aed97
 Section: Aaron-游戏(Games)
 Description: 解锁功能：①2倍视距
 Author: Smoking & Acreson
 Icon: https://aaronc.cn/img/game.jpg
-Name: 农药 2.33倍视野【辅助】
+Name: 农药解锁2.33倍视野【辅助】
+Sileodepiction: https://aaronc.cn/sileo.json
+
+Package: org.coolstar.sileo
+Version: 1.7.4
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Pre-Depends: debianutils, dpkg (>= 1.18)
+Depends: apt (>= 1.8.0), apt (>= 2.1.0) | apt-lib (>= 1.8.0-sileo) | libapt (>=1.8.2-sileo2), apt (>= 2.1.0) | apt-key (>= 1.8.0), dpkg (>= 1.19.2-4), procursus-keyring | cydia, zsh | bash, cy+cpu.arm64, firmware(>=12.2) | org.swift.libswift (>=5.0)
+Conflicts: cydia-gui (<<99.0)
+Filename: ./debs/org.coolstar.sileo_1.7.4_iphoneos-arm.deb
+Size: 3151012
+MD5sum: 36efdd7718f66242055228fad317a599
+SHA1: 05bf31ad9c8ac0699b8d1bf7beed7aa49c65844b
+SHA256: ad4906b29c504497f05a615abacb51fc11ec3926c889d86d1e7d4c9d1bf62dc4
+Section: Aaron-应用(Applications)
+Priority: required
+Description: 1.7.4旧版本
+Tag: cydia::essential
+Author: Aaron <851302227@qq.com>
+Name: Sileo 1.7.4 旧版
 Sileodepiction: https://aaronc.cn/sileo.json
 
