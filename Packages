@@ -264,6 +264,42 @@ Icon: https://aaronc.cn/img/game.jpg
 Name: 农药解锁1.5倍视野【辅助】
 Sileodepiction: https://aaronc.cn/sileo.json
 
+Package: aaron.chaojishiju15
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: Smoking & Acreson
+Depends: mobilesubstrate
+Filename: ./debs/aaron.chaojishiju15_1.6_iphoneos-arm.deb
+Size: 242408
+MD5sum: 55e03d5fc8a1a26c070c89d6305b0831
+SHA1: 56d8d83b9c935081dc331cf6aab75abb9f2144d4
+SHA256: 322691dceb35a8722bef4beb97b1caf436400d341f4dc12a1e45ae38cfc3c3a9
+Section: Aaron-游戏(Games)
+Description: 解锁功能：①1.5倍视距
+Author: Smoking & Acreson
+Icon: https://aaronc.cn/img/game.jpg
+Name: 农药解锁1.5倍视野【辅助】
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: Aaron <851302227@qq.com>
+
+Package: aaron.chaojishiju2
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: Smoking & Acreson
+Depends: mobilesubstrate
+Filename: ./debs/aaron.chaojishiju2_1.6_iphoneos-arm.deb
+Size: 242288
+MD5sum: c89ce3b9b06126e03f0ef91703f72266
+SHA1: 48b019d7322de78e5a9fa2be2456009c9c9e4fb1
+SHA256: 6bfc7784eac788f7b66e61f61191291a382f44a32961be4118cd73ca0ac17e72
+Section: Aaron-游戏(Games)
+Description: 解锁功能：①2倍视距
+Author: Smoking & Acreson
+Icon: https://aaronc.cn/img/game.jpg
+Name: 农药解锁2倍视野【辅助】
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: Aaron <851302227@qq.com>
+
 Package: aaron.chaojishiju4
 Version: 1.4
 Architecture: iphoneos-arm
@@ -279,6 +315,24 @@ Description: 解锁功能：①4倍视距
 Icon: https://aaronc.cn/img/game.jpg
 Name: 农药解锁4倍视野【辅助】
 Sileodepiction: https://aaronc.cn/sileo.json
+
+Package: aaron.chaojishiju4
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: Smoking & Acreson
+Depends: mobilesubstrate
+Filename: ./debs/aaron.chaojishiju4_1.6_iphoneos-arm.deb
+Size: 242276
+MD5sum: 3c45f7c6ff19b4e5fb8ffd62214e3acf
+SHA1: 124643274bb941d11c578e0b2a0ac34a130c313d
+SHA256: cce9a9add390521521c9e3019fb27d894dcf54640298daabab1ace9b8fd91523
+Section: Aaron-游戏(Games)
+Description: 解锁功能：①4倍视距
+Author: Smoking & Acreson
+Icon: https://aaronc.cn/img/game.jpg
+Name: 农药解锁4倍视野【辅助】
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: Aaron <851302227@qq.com>
 
 Package: aaron.crackerxi
 Version: 1.1.16
@@ -334,6 +388,60 @@ Icon: https://aaronc.cn/img/tweak.jpg
 Name: DisableAlert【全局弹窗屏蔽】
 Sileodepiction: https://aaronc.cn/sileo.json
 Sponsor: Aaron
+
+Package: aaron.dlgmemorinjected
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: AnonymousXiOSdeV
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/aaron.dlgmemorinjected_1.0.1-1_iphoneos-arm.deb
+Size: 362704
+MD5sum: 003f9e3296188c278faf14c00d694920
+SHA1: c1cb1dd8740d4dd082725dbd621562a0a351e81d
+SHA256: 126177f1301594b4d2151279afaa0dd1ce6b96f04105efbeee310b21f8c062f8
+Section: Aaron-游戏(Games)
+Description: DLGMemor内存修改器
+Author: AnonymousXiOSdeV
+Icon: https://aaronc.cn/img/game.jpg
+Name: DLGMemor【修改器】
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: Aaron <851302227@qq.com>
+
+Package: aaron.iap26
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/aaron.iap26_0.0.2_iphoneos-arm.deb
+Size: 13072
+MD5sum: e8fead09b805bf300b7fdcc493c50f15
+SHA1: b54b9b57696d56716465421e3ccc226ae54406ca
+SHA256: fa2335e11519c537824c708ce0c214c079e998f45d6902fad8c5261cb2b4c8c8
+Section: Aaron-插件(Tweaks)
+Description: iOS最强本地内购插件！⚠️注意: 不用记得关掉
+Author: JustinPet26
+Icon: https://aaronc.cn/img/tweak.jpg
+Name: iAP26
+Sileodepiction: https://aaronc.cn/sileo.json
+
+Package: aaron.iggcrack
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Azozz ALFiras
+Installed-Size: 660
+Depends: mobilesubstrate, idv.aqua.igg12.speed
+Filename: ./debs/aaron.iggcrack_1.1_iphoneos-arm.deb
+Size: 123108
+MD5sum: f4f8a9d7c5fc450fbcb5530a1be0a79b
+SHA1: a0b3c0ae1dda42022df583c8531817a2d9877bc7
+SHA256: 7e206e4967d38debf28d6892ea94fbd651a9302efc0ce05bd24bfc2f65a86225
+Section: Aaron-游戏(Games)
+Description: 使用破解版igg有很大几率被拉黑设备
+Author: Azozz ALFiras
+Icon: https://aaronc.cn/img/game.jpg
+Name: iGameGuardian Cracked【IGG 破解补丁】
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: Aaron <851302227@qq.com>
 
 Package: aaron.mail
 Version: 6.21.1
@@ -419,6 +527,23 @@ Section: Aaron-应用(Applications)
 Description: Quantumult
 Icon: https://aaronc.cn/img/quantumultx.jpg
 Name: Quantumult X【砸壳直装版本】
+Sileodepiction: https://aaronc.cn/sileo.json
+
+Package: aaron.rxmemscan
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: rainyx
+Installed-Size: 1272
+Filename: ./debs/aaron.rxmemscan_0.0.1-1+debug_iphoneos-arm.deb
+Size: 276764
+MD5sum: a65388fbe40825159134111a102172c8
+SHA1: 49dbb6200e0ae947495a3999d5b68abd016e17b7
+SHA256: aab30b6843be3d31f22f8659803089c705d945868eb2ff7d739cc2ad3df58349
+Section: Aaron-游戏(Games)
+Description: 一款速度上比bmsq,igg更快的修改器
+Author: rainyx
+Icon: https://aaronc.cn/img/game.jpg
+Name: Rxmemscan【内存修改器】
 Sileodepiction: https://aaronc.cn/sileo.json
 
 Package: aaron.shadowrocket
