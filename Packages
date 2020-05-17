@@ -112,15 +112,15 @@ Name: WeChat【快速备注】
 Sileodepiction: https://aaronc.cn/sileo.json
 
 Package: aaron.AdBlocker
-Version: 7.1
+Version: 7.1.1
 Architecture: iphoneos-arm
 Maintainer: Aaron
 Depends: firmware (>= 8.0)
-Filename: ./debs/aaron.adblocker_7.1_iphoneos-arm.deb
-Size: 8778296
-MD5sum: 34c424c816239e3b5cf6e85b7cd6ce00
-SHA1: 01db31257ee293739fc73e88444ccbcfb96f2b32
-SHA256: f51b0ce8d0df33d0aaae7b23d8e700a1c514e267a6fcb1a395b35704a74c4cd0
+Filename: ./debs/aaron.adblocker_7.1.1_iphoneos-arm.deb
+Size: 8779604
+MD5sum: 162cba7e96f7bd3b99a79381740647fa
+SHA1: 77a1c57bdb49f84969e4645be75ebdf5895af4b7
+SHA256: 12caeab2bb7a2de599864f53a72aab7f3014dff01e34eba1cbdc5bab7816caef
 Section: Aaron-应用(Applications)
 Description: AdBlocker Safari浏览器去广告拦截
 Author: Aaron
