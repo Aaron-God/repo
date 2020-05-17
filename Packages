@@ -129,6 +129,81 @@ Name: AdBlocker【砸壳直装版本】
 Sileodepiction: https://aaronc.cn/sileo.json
 Sponsor: Aaron <851302227@qq.com>
 
+Package: aaron.CallAssist11
+Version: 2.1-2
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/aaron.callassist11_2.1-2_iphoneos-arm.deb
+Size: 379336
+MD5sum: cba0608de9057f7204a233dffb19be47
+SHA1: 1a5f827a0fabadbd2263256a8f66e1e4a990dca6
+SHA256: 62fd4a92a0b77c62baf2e18378a8dbd4c39daa06e71c951c23d6ad9c77d369e4
+Section: Aaron-插件(Tweaks)
+Priority: optional
+Description: 电话助手11系统专用版！此包为官方原版授权分流下载！电话助手官源: apt.htv123.com (功能:原生T9拨号,来去电,短信归属地,接通振动,黑名单拦截,流量显示,锁屏集成一身)
+A12: 1
+Author: xybp888
+Icon: https://aaronc.cn/img/tweak.jpg
+Name: CallAssist电话助手（IOS11）
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: Aaron <851302227@qq.com>
+
+Package: aaron.CallAssist12
+Version: 2.5.3
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader,com.rpetrich.rocketbootstrap
+Filename: ./debs/aaron.callassist12_2.5.3_iphoneos-arm.deb
+Size: 602800
+MD5sum: 17beeb48b331e46245b5311ad7a52f70
+SHA1: 6829682d2f67ca7a07341494b577ddab81c0f4af
+SHA256: 9852ca03eabf8a885afda0dc714d6f49e6c4e2c5a7721a9bc009982e169efb5e
+Section: Aaron-插件(Tweaks)
+Priority: optional
+Description: iOS12专用版！此包为官方原版授权分流下载！电话助手官源: apt.htv123.com<h4>更新内容</h4>
+ <ul>
+ <h3>2.5.3 (iOS12)正式版更新发布:</h3>
+ <h4>更新内容</h4>
+ 	<li>新增查看录音文件列表,支持在设置点击播放</li>
+ 	<li>新增录音文件列表左滑删除录音文件</li>
+ </ul>
+A12: 1
+Ashigm: http://buy.htv123.com/
+Author: xybp888
+Icon: https://aaronc.cn/img/tweak.jpg
+Name: CallAssist电话助手（IOS12）
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: Aaron <851302227@qq.com>
+
+Package: aaron.CallAssist13
+Version: 1.2.3.0-0
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Depends: firmware (>= 13.0), mobilesubstrate,preferenceloader
+Filename: ./debs/aaron.callassist13_1.2.3.0-0_iphoneos-arm.deb
+Size: 636212
+MD5sum: 1583d83bafb2dd0f2cac681584673c5e
+SHA1: 239eea1d299ea397f44be4948f22241b9c0575b4
+SHA256: 0fe5659209bcd2900fa082421872b5af8274779a4103d3031c068ad537bd7b06
+Section: Aaron-插件(Tweaks)
+Priority: optional
+Description: CallAssist电话助手（IOS13），此包为官方原版授权分流下载！电话助手官源: http://apt.htv123.com<br><ul>
+ <h3>1.2.3.0 (iOS13)正式版更新发布:</h3>
+ <h4>更新内容</h4>
+ 	<li>修复挂V后网速显示双倍速率的问题</li>
+ 	<li>新增数据图标替换(4G)</li>
+ 	<li>新增支持上传网速显示</li>
+ 	<li>新增网速自定义标识</li>
+ </ul>
+A12: 1
+Ashigm: http://buy.htv123.com/
+Author: xybp888
+Icon: https://aaronc.cn/img/tweak.jpg
+Name: CallAssist电话助手（IOS13）
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: Aaron <851302227@qq.com>
+
 Package: aaron.DocumentScannerPRO
 Version: 1.2.3
 Architecture: iphoneos-arm
@@ -212,6 +287,24 @@ Icon: https://aaronc.cn/img/weixin.jpg
 Name: 微信助手-密友
 Sileodepiction: https://aaronc.cn/sileo.json
 
+Package: aaron.SuperWingy
+Version: 1.6.1
+Architecture: iphoneos-arm
+Maintainer: Aaron
+Depends: firmware (>= 8.0)
+Filename: ./debs/aaron.superwingy_1.6.1_iphoneos-arm.deb
+Size: 4735084
+MD5sum: 527efff5a3b657ef0146b42d327dd078
+SHA1: 52a4331db34f14e8bb302bb2ffffa7e611c2e894
+SHA256: d0b9e2958aaa7029bf5130bc2a0059a0e82d23e1ce37b7c3a50b8138910e6c60
+Section: Aaron-应用(Applications)
+Description: 这个干什么的应该都知道吧~
+Author: Aaron <851302227@qq.com>
+Icon: https://aaronc.cn/img/superwingy.png
+Name: SuperWingy【砸壳直装版本】
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: Aaron <851302227@qq.com>
+
 Package: aaron.WeChatHookPro
 Version: 0.3-5
 Architecture: iphoneos-arm
@@ -228,6 +321,26 @@ Author: Mao
 Icon: https://aaronc.cn/img/weixin.jpg
 Name: WeChatHookPro【微信助手】
 Sileodepiction: https://aaronc.cn/sileo.json
+
+Package: aaron.a-bypass
+Version: 1.0.7
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Installed-Size: 388
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Filename: ./debs/aaron.a-bypass_1.0.7_iphoneos-arm.deb
+Size: 31360
+MD5sum: 72048bf9d4f34b12ee478f643fce7dfd
+SHA1: 580df372262c7829dd1379a29c75180902509c4c
+SHA256: edad0e47c043551762947c1d7ffd56949e75893ad0bcc69fedbe72a93d217e1e
+Section: Aaron-系统(System)
+Description: 一款强力有效 简单设置的屏蔽越狱插件，能解决iOS13王者荣耀，使命召唤等一些游戏的闪退，支付宝开启指纹面容等等
+A12: 1
+Author: Baw Appie
+Icon: https://aaronc.cn/img/system.jpg
+Name: A-Bypass【屏蔽越狱】
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: Aaron <851302227@qq.com>
 
 Package: aaron.appleturboboost
 Version: 0.5.1
@@ -246,6 +359,23 @@ Author: Halo_Michael <yc992147156@me.com>
 Icon: https://aaronc.cn/img/system.jpg
 Name: Apple Turbo Boost【解除降频】
 Sileodepiction: https://aaronc.cn/sileo.json
+
+Package: aaron.bilibilivip
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/aaron.bilibilivip_1.0.4_iphoneos-arm.deb
+Size: 630396
+MD5sum: ce43b15df9b79eaae4b5e0cf84272e17
+SHA1: 9a7682318602371944c4fdde4a9b951991c9a52c
+SHA256: 893c263c7bc0f0b5715c2ced69f0c04cda64208aa865d3d4554b497d555fe203
+Section: Aaron-破解(Crack)
+Description: 降级版本 ID835001394 解锁哔哩哔哩大会员
+Author: 星星点灯
+Icon: https://aaronc.cn/img/crack.png
+Name: Bilibili【破解大会员】
+Sponsor: Aaron <851302227@qq.com>
 
 Package: aaron.chaojishiju15
 Version: 1.6
@@ -298,6 +428,26 @@ Description: 解锁功能：①4倍视距
 Author: Smoking & Acreson
 Icon: https://aaronc.cn/img/game.jpg
 Name: 农药解锁4倍视野【辅助】
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: Aaron <851302227@qq.com>
+
+Package: aaron.choicy
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Installed-Size: 776
+Depends: mobilesubstrate, applist
+Filename: ./debs/aaron.choicy_1.2_iphoneos-arm.deb
+Size: 91404
+MD5sum: 98ee575b99e9bad9bcb062784c895716
+SHA1: 0ad9ba0ab03c6fd2c8c05742577c6a0ea344c3dd
+SHA256: a2ae1bd44c3d43c8859aba8877ab323982249bb0144e3051bd412b3a7e10888c
+Section: Aaron-系统(System)
+Description: 更准确的屏蔽越狱检测，全功能完整汉化版
+A12: 1
+Author: opa334
+Icon: https://aaronc.cn/img/system.jpg
+Name: Choicy【屏蔽越狱】
 Sileodepiction: https://aaronc.cn/sileo.json
 Sponsor: Aaron <851302227@qq.com>
 
@@ -356,6 +506,25 @@ Name: DisableAlert【全局弹窗屏蔽】
 Sileodepiction: https://aaronc.cn/sileo.json
 Sponsor: Aaron
 
+Package: aaron.dleasy
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
+Filename: ./debs/aaron.dleasy_3.0_iphoneos-arm.deb
+Size: 210560
+MD5sum: 30119b52be5ec3c82c5eae94d0c06773
+SHA1: 1338f25efb298d29343935dbe046a791d11215b8
+SHA256: aa8ec779dae86accdeef95d6518407d48a886069a415efce00e2dcc4fc9d65ce
+Section: Aaron-插件(Tweaks)
+Description: 国外主流社交软件视频长按一键下载，支持Twitter，YouTube，TikTok，Instagram，Tumblr，Facebook等，无设置项目，安装生效
+A12: 1
+Author: Ahmed Bafkir
+Icon: https://aaronc.cn/img/tweak.jpg
+Name: DLEasy【短视频下载器】
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: Aaron <851302227@qq.com>
+
 Package: aaron.dlgmemorinjected
 Version: 1.0.1-1
 Architecture: iphoneos-arm
@@ -371,6 +540,26 @@ Description: DLGMemor内存修改器
 Author: AnonymousXiOSdeV
 Icon: https://aaronc.cn/img/game.jpg
 Name: DLGMemor【修改器】
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: Aaron <851302227@qq.com>
+
+Package: aaron.flyjb
+Version: 0.2.4.1
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Installed-Size: 1224
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
+Filename: ./debs/aaron.flyjb_0.2.4.1_iphoneos-arm.deb
+Size: 480132
+MD5sum: 44f5ecf2ff35bed6d548b603b267ac4d
+SHA1: eb270af1c2fbb6dfcc2205582564c76db1ff8da8
+SHA256: 2e38c1d1e838e1bb3bd54be3f5eba09abdcc0ac5733d792dced1b72a28bbb230
+Section: Aaron-系统(System)
+Description: 屏蔽越狱检测 激活指纹 面容支付，插件为韩语插件，已经汉化
+A12: 1
+Author: XsF1re
+Icon: https://aaronc.cn/img/system.jpg
+Name: FlyJB【屏蔽越狱】
 Sileodepiction: https://aaronc.cn/sileo.json
 Sponsor: Aaron <851302227@qq.com>
 
@@ -398,11 +587,11 @@ Maintainer: Azozz ALFiras
 Installed-Size: 660
 Depends: mobilesubstrate, idv.aqua.igg12.speed
 Filename: ./debs/aaron.iggcrack_1.1_iphoneos-arm.deb
-Size: 123108
-MD5sum: f4f8a9d7c5fc450fbcb5530a1be0a79b
-SHA1: a0b3c0ae1dda42022df583c8531817a2d9877bc7
-SHA256: 7e206e4967d38debf28d6892ea94fbd651a9302efc0ce05bd24bfc2f65a86225
-Section: Aaron-游戏(Games)
+Size: 123028
+MD5sum: 5b408f163463f1f9762160eac37b640e
+SHA1: b9ef70cbc3b093f8aa80bae2c963a7056a6d41fe
+SHA256: b2fd783ab5c5f423fdd84d882dc681fe1a751aa3f73083de37e07badf5458dd2
+Section: Aaron-破解(Crack)
 Description: 使用破解版igg有很大几率被拉黑设备
 Author: Azozz ALFiras
 Icon: https://aaronc.cn/img/game.jpg
@@ -464,6 +653,49 @@ Name: OPPO Google【Sans多字重中英文85%】
 Sileodepiction: https://aaronc.cn/sileo.json
 Sponsor: Aaron
 
+Package: aaron.otadisabler
+Version: 0.1-7
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Installed-Size: 200
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+Filename: ./debs/aaron.otadisabler_0.1-7_iphoneos-arm.deb
+Size: 15016
+MD5sum: 74e9102fda46a0994df6a1b178d03c60
+SHA1: 8fca048411c28aa51ad529839a999885c069067f
+SHA256: 5abeb7e4527606a91a9a3add1daf5c373b2f9d8a381518e773d4c734d1f2182c
+Section: Aaron-系统(System)
+Description: 可以有效的屏蔽系统更新，支持iOS9~iOS13系统，首先，删除OTA系统升级包，设置 → 通用 → iPhone 储存空间，安装OTADisabler后注销后生效，无设置选项。
+A12: 1
+Author: ichitaso
+Icon: https://aaronc.cn/img/system.jpg
+Name: OTADisabler【屏蔽更新】
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: Aaron <851302227@qq.com>
+
+Package: aaron.powerselector11
+Version: 1.2.6
+Architecture: iphoneos-arm
+Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
+Installed-Size: 1860
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: ./debs/aaron.powerselector11_1.2.6_iphoneos-arm.deb
+Size: 196680
+MD5sum: 93d11b6c6564d4e2ab338ea0ca0666d2
+SHA1: 9c0f2a244a9a1f19b772a270a5a2072d42a6a444
+SHA256: 7d5726d6641e28cac64716a5d20900ce6f77ff42003c7200cf8d54a9a8ee1a61
+Section: Aaron-插件(Tweaks)
+Description: 11.0-13.3.1的快捷工具
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Icon: https://aaronc.cn/img/tweak.jpg
+Name: PowerSelector【11/12/13】
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: aaron.quantumult
 Version: 2.2.13
 Architecture: iphoneos-arm
@@ -513,6 +745,25 @@ Icon: https://aaronc.cn/img/game.jpg
 Name: Rxmemscan【内存修改器】
 Sileodepiction: https://aaronc.cn/sileo.json
 
+Package: aaron.shadow
+Version: 2.0.20
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common (>= 1.13.1), applist, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.7~beta3)
+Filename: ./debs/aaron.shadow_2.0.20_iphoneos-arm.deb
+Size: 134812
+MD5sum: c98bc5f73da70f88042a969a1a744fb3
+SHA1: 1e661f0b578bf39569b8ff838a73ae86bf2d697b
+SHA256: 27003b3590f43e917d6389c27d3e82c01d0f330015c5a2b4042110bfca40004c
+Section: Aaron-系统(System)
+Description: 轻量级通用越狱检测，已完整汉化
+A12: 1
+Author: jjolano
+Icon: https://aaronc.cn/img/system.jpg
+Name: Shadow【屏蔽越狱】
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: Aaron <851302227@qq.com>
+
 Package: aaron.shadowrocket
 Version: 2.1.48
 Architecture: iphoneos-arm
@@ -545,6 +796,24 @@ Description: Sileo演示版 配合Sileo Demo Download 可保存插件
 Author: Aaron
 Icon: https://aaronc.cn/img/sileo.png
 Name: Sileo Demo【砸壳直装版本】
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: Aaron <851302227@qq.com>
+
+Package: aaron.wapo
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Aaron
+Depends: firmware (>= 8.0)
+Filename: ./debs/aaron.wapo_1.0.0_iphoneos-arm.deb
+Size: 6381568
+MD5sum: 56bbf4bff1b59da2e3b44e1836a2a88b
+SHA1: a4d415cea1a57618f881665e26370b146e3b2a1e
+SHA256: dbac4d1c364749cb6c050d769dcc042d9d6aed65a5a2239a10437beb11066b21
+Section: Aaron-应用(Applications)
+Description: 吾爱破解 APP
+Author: Aaron <851302227@qq.com>
+Icon: https://aaronc.cn/img/wuai.png
+Name: 吾爱破解【砸壳直装版本】
 Sileodepiction: https://aaronc.cn/sileo.json
 Sponsor: Aaron <851302227@qq.com>
 
