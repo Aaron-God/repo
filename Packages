@@ -817,3 +817,22 @@ Name: 吾爱破解【砸壳直装版本】
 Sileodepiction: https://aaronc.cn/sileo.json
 Sponsor: Aaron <851302227@qq.com>
 
+Package: com.bingner.plutil
+Version: 0.2.1
+Architecture: iphoneos-arm
+Maintainer: Samuel Bingner
+Installed-Size: 144
+Depends: firmware (>=2.0)
+Conflicts: com.ericasadun.utilities
+Filename: ./debs/com.bingner.plutil_0.2.1_iphoneos-arm.deb
+Size: 27324
+MD5sum: b212057eb7439b028c45fc4f1babb4bf
+SHA1: eaf815cf5f7e31566c34ab0958fd6a92b84eb360
+SHA256: c21e16eb2c1b3fd0646e7514a22b615c6fc28ad22fa6f3d259d260749a77fefb
+Section: Aaron-依赖(Depends)
+Description: 解除降频的依赖，un用户可以无视更新
+Author: Samuel Bingner
+Icon: https://aaronc.cn/img/depend.png
+Name: plutil【依赖】
+Sponsor: Aaron <851302227@qq.com>
+

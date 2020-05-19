@@ -1,0 +1,13 @@
+Package: com.bingner.plutil
+Version: 0.2.1
+Section: Aaron-依赖(Depends)
+Maintainer: Samuel Bingner
+Depends: firmware (>=2.0)
+Conflicts: com.ericasadun.utilities
+Architecture: iphoneos-arm
+Installed-Size: 144
+Name: plutil【依赖】
+Author: Samuel Bingner
+Sponsor: Aaron <851302227@qq.com>
+Icon: https://aaronc.cn/img/depend.png
+Description: 解除降频的依赖，un用户可以无视更新
