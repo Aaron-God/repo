@@ -1,13 +1,16 @@
-Package: com.bingner.plutil
-Version: 0.2.1
-Section: Aaron-依赖(Depends)
-Maintainer: Samuel Bingner
-Depends: firmware (>=2.0)
-Conflicts: com.ericasadun.utilities
+Name: CheatEngineIO
+Package: aaron.Aqua.CheatEngineIO
+Priority: optional
+Depends: firmware (>= 8.0)
+Version: 12.0.4
 Architecture: iphoneos-arm
-Installed-Size: 144
-Name: plutil【依赖】
-Author: Samuel Bingner
-Sponsor: Aaron <851302227@qq.com>
-Icon: https://aaronc.cn/img/depend.png
-Description: 解除降频的依赖，un用户可以无视更新
+Description: 此为修改版 iGG，而且还是破解版，破解版有被开发者拉黑设备的可能，使用有风险，自行斟酌。请使用去弹窗插件配合使用。
+Homepage: https://igg-server.herokuapp.com/
+Depiction: https://igg-server.herokuapp.com/
+Sponsor: Aqua Wu <igameguardian@gmail.com>
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Author: Aqua Wu <igameguardian@gmail.com>
+Section: Utilities
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
+Installed-Size: 1372
+dev: aqua

@@ -1,0 +1,17 @@
+#!/bin/bash
+
+launchctl unload -w /Library/LaunchDaemons/aqua.ce.daemon.plist
+
+rm /Library/LaunchDaemons/aqua.ce.*.plist
+
+if [[ -d /var/mobile/Library/CheatEngineIO ]]; then
+    rm -rf /var/mobile/Library/CheatEngineIO
+fi
+
+if [[ -d /Applications/CheatEngineIO.app ]]; then
+    rm -rf /Applications/CheatEngineIO.app
+fi
+
+uicache --all
+
+exit 0

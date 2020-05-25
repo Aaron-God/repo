@@ -1,0 +1,177 @@
+
+/* Class = "UIViewController"; title = "Settings"; ObjectID = "2"; */
+"2.title" = "Settings";
+
+/* Class = "UIViewController"; title = "Search"; ObjectID = "3"; */
+"3.title" = "Search";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "6"; */
+"6.title" = "Search";
+
+/* Class = "UITabBarItem"; title = "App"; ObjectID = "7"; */
+"7.title" = "App";
+
+/* Class = "UIBarButtonItem"; title = "Goto"; ObjectID = "0Og-Ld-G9H"; */
+"0Og-Ld-G9H.title" = "Goto";
+
+/* Class = "UITableViewSection"; headerTitle = "     Suspend when searching"; ObjectID = "1QQ-fX-cKX"; */
+"1QQ-fX-cKX.headerTitle" = "     Suspend when searching";
+
+/* Class = "UIBarButtonItem"; title = "Fuzzy"; ObjectID = "1oT-gA-qLq"; */
+"1oT-gA-qLq.title" = "Fuzzy";
+
+/* Class = "UILabel"; text = "Max:"; ObjectID = "3Ik-Hk-fed"; */
+"3Ik-Hk-fed.text" = "Max:";
+
+/* Class = "UIBarButtonItem"; title = "Refresh"; ObjectID = "3ff-WK-VDx"; */
+"3ff-WK-VDx.title" = "Refresh";
+
+/* Class = "UILabel"; text = "Remove Unmatched"; ObjectID = "4J4-xQ-JGG"; */
+"4J4-xQ-JGG.text" = "Remove Unmatched";
+
+/* Class = "UITableViewSection"; headerTitle = "     Display Applications"; ObjectID = "4Zx-nZ-GIk"; */
+"4Zx-nZ-GIk.headerTitle" = "     Display Applications";
+
+/* Class = "UITableViewSection"; headerTitle = "     Nearby"; ObjectID = "55k-es-soq"; */
+"55k-es-soq.headerTitle" = "     Nearby";
+
+/* Class = "UILabel"; text = "0x00000000"; ObjectID = "5B3-5h-7Wj"; */
+"5B3-5h-7Wj.text" = "0x00000000";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "5E9-OK-xgo"; */
+"5E9-OK-xgo.title" = "Done";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "69g-oQ-Ydc"; */
+"69g-oQ-Ydc.text" = "Help";
+
+/* Class = "UITableViewSection"; headerTitle = "     Web Site"; ObjectID = "7ud-4k-iVc"; */
+"7ud-4k-iVc.headerTitle" = "     Web Site";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "82S-3h-Pec"; */
+"82S-3h-Pec.text" = "Title";
+
+/* Class = "UIBarButtonItem"; title = "Rebase"; ObjectID = "BB8-rT-2WT"; */
+"BB8-rT-2WT.title" = "Rebase";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "C41-Y2-WHg"; */
+"C41-Y2-WHg.text" = "Title";
+
+/* Class = "UILabel"; text = "1.0"; ObjectID = "CSt-KS-Lh2"; */
+"CSt-KS-Lh2.text" = "1.0";
+
+/* Class = "UILabel"; text = "(Clear)"; ObjectID = "Cvh-rR-mmP"; */
+"Cvh-rR-mmP.text" = "(Clear)";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "Fdy-6w-6sZ"; */
+"Fdy-6w-6sZ.title" = "Save";
+
+/* Class = "UILabel"; text = "Long Press Supported"; ObjectID = "HLZ-I2-Acm"; */
+"HLZ-I2-Acm.text" = "Long Press Supported";
+
+/* Class = "UITabBarItem"; title = "Help"; ObjectID = "Hkb-5n-zkC"; */
+"Hkb-5n-zkC.title" = "Help";
+
+/* Class = "UILabel"; text = "Long Press Supported"; ObjectID = "IK8-8N-7Fs"; */
+"IK8-8N-7Fs.text" = "Long Press Supported";
+
+/* Class = "UITableViewSection"; headerTitle = "     Float Tolerance"; ObjectID = "Jc8-FV-3jh"; */
+"Jc8-FV-3jh.headerTitle" = "     Float Tolerance";
+
+/* Class = "UILabel"; text = "Long Press Supported"; ObjectID = "LPa-NH-KyM"; */
+"LPa-NH-KyM.text" = "Long Press Supported";
+
+/* Class = "UILabel"; text = "News & Registration"; ObjectID = "LWf-lY-vOZ"; */
+"LWf-lY-vOZ.text" = "News & Registration";
+
+/* Class = "UILabel"; text = "subtitle"; ObjectID = "Mxt-Js-vlI"; */
+"Mxt-Js-vlI.text" = "subtitle";
+
+/* Class = "UITabBarItem"; title = "More"; ObjectID = "PYC-wB-sYI"; */
+"PYC-wB-sYI.title" = "More";
+
+/* Class = "UILabel"; text = "Suspend"; ObjectID = "QyR-Lu-T6R"; */
+"QyR-Lu-T6R.text" = "Suspend";
+
+/* Class = "UILabel"; text = "  Address : Data in hex (Data in decimal)"; ObjectID = "RxM-Xa-MBt"; */
+"RxM-Xa-MBt.text" = "  Address : Data in hex (Data in decimal)";
+
+/* Class = "UILabel"; text = "0xFFFFFFFF: 0xFFFFFFFF (444444444)"; ObjectID = "Sb9-Ts-Z3w"; */
+"Sb9-Ts-Z3w.text" = "0xFFFFFFFF: 0xFFFFFFFF (444444444)";
+
+/* Class = "UIBarButtonItem"; title = "Load"; ObjectID = "T9Q-o9-Hrh"; */
+"T9Q-o9-Hrh.title" = "Load";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "WkZ-Fm-mzF"; */
+"WkZ-Fm-mzF.text" = "Title";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "XqL-N3-TTK"; */
+"XqL-N3-TTK.text" = "Subtitle";
+
+/* Class = "UITabBarItem"; title = "Save"; ObjectID = "YIk-iQ-0kX"; */
+"YIk-iQ-0kX.title" = "Save";
+
+/* Class = "UILabel"; text = "Signed"; ObjectID = "cBy-eA-FZH"; */
+"cBy-eA-FZH.text" = "Signed";
+
+/* Class = "UILabel"; text = "0x0FFFFFFF"; ObjectID = "dCM-NC-whc"; */
+"dCM-NC-whc.text" = "0x0FFFFFFF";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "dFN-mO-XPL"; */
+"dFN-mO-XPL.text" = "Help";
+
+/* Class = "UIBarButtonItem"; title = "Clear"; ObjectID = "dGt-10-PkA"; */
+"dGt-10-PkA.title" = "Clear";
+
+/* Class = "UITableViewSection"; headerTitle = "     Memory Usage Reduction"; ObjectID = "dag-nG-eLx"; */
+"dag-nG-eLx.headerTitle" = "     Memory Usage Reduction";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "g0L-lp-rCU"; */
+"g0L-lp-rCU.text" = "Subtitle";
+
+/* Class = "UITextView"; text = "iGameGuardian info: http://igg-server.herokuapp.com\n\nUsage: \nA. Select the target process\n  1. Launch the game, then launch iGameGuardian.\n  2. Tap 'App' tab\n  3. Select the game process\nB. Search a game attribute\n  1. Launch the game, then launch iGameGuardian and select the game process\n  2. Back to your game and play it\n  3. During gaming, re-launch iGameGuardian \n  4. Tap 'Search' tab\n  5. Tap Number button to search the attribute value\n  6. Repeat step 2~5 until finding the attribute address\n  7. Long press the address item and save it\n  8. Tap Clear button for next game attribute searching\nC. Manage the saved list\n  1. Tap 'Save' tab\n  2. Tap a saved item to change the value\n  3. Turn on the Switch if you want to lock the value\n  4. You can save/load the list by using the Save/Load button\n  * The saved list is per game basis, i.e. each game has its won saved list.\nD. Reset iGG for another game\n  1. Tap 'App' tab\n  2. Select the process of another game\nE. Reduce memory usage\n  1. Tap 'More' tab\n  2. Turn on 'Use storage' switch\n  3. iGG would use disk space instead of memory. Please make sure you have a few GB free disk space.\nF. Change the address search range\n  1. Tap 'More' tab\n  2. Change the Min and Max values.\n\nNearby Search:\nGiving the nearby range R, for each current search list item's address A, search the value in [A-R, A+R].\nIf matched, any matched addresses will be added to the search list, and A is also kept.\nIf no address matched, the item A will be removed from the search list.\n\nImplicit functions:\n  . Whenever you select a search item or a saved item, the address would be copy to the Address field in Memory tab.\n  . Whenever you select a search item and a saved item, the address difference would be the default value of Rebase.\n\nTerminologies:\n  F64: 64-bit floating number(double)\n  F32: 32-bit floating number\n  I64: 64-bit integer number\n  I32: 32-bit integer number\n  I16: 16-bit integer number\n  I8: 8-bit integer number\n\nEnjoy playing games in your own way!\n\ne-mail: igameguardian@gmail.com\n"; ObjectID = "gjY-Dx-WFj"; */
+"gjY-Dx-WFj.text" = "iGameGuardian info: http://igg-server.herokuapp.com\n\nUsage: \nA. Select the target process\n  1. Launch the game, then launch iGameGuardian.\n  2. Tap 'App' tab\n  3. Select the game process\nB. Search a game attribute\n  1. Launch the game, then launch iGameGuardian and select the game process\n  2. Back to your game and play it\n  3. During gaming, re-launch iGameGuardian \n  4. Tap 'Search' tab\n  5. Tap Number button to search the attribute value\n  6. Repeat step 2~5 until finding the attribute address\n  7. Long press the address item and save it\n  8. Tap Clear button for next game attribute searching\nC. Manage the saved list\n  1. Tap 'Save' tab\n  2. Tap a saved item to change the value\n  3. Turn on the Switch if you want to lock the value\n  4. You can save/load the list by using the Save/Load button\n  * The saved list is per game basis, i.e. each game has its won saved list.\nD. Reset iGG for another game\n  1. Tap 'App' tab\n  2. Select the process of another game\nE. Reduce memory usage\n  1. Tap 'More' tab\n  2. Turn on 'Use storage' switch\n  3. iGG would use disk space instead of memory. Please make sure you have a few GB free disk space.\nF. Change the address search range\n  1. Tap 'More' tab\n  2. Change the Min and Max values.\n\nNearby Search:\nGiving the nearby range R, for each current search list item's address A, search the value in [A-R, A+R].\nIf matched, any matched addresses will be added to the search list, and A is also kept.\nIf no address matched, the item A will be removed from the search list.\n\nImplicit functions:\n  . Whenever you select a search item or a saved item, the address would be copy to the Address field in Memory tab.\n  . Whenever you select a search item and a saved item, the address difference would be the default value of Rebase.\n\nTerminologies:\n  F64: 64-bit floating number(double)\n  F32: 32-bit floating number\n  I64: 64-bit integer number\n  I32: 32-bit integer number\n  I16: 16-bit integer number\n  I8: 8-bit integer number\n\nEnjoy playing games in your own way!\n\ne-mail: igameguardian@gmail.com\n";
+
+/* Class = "UIBarButtonItem"; title = "Batch"; ObjectID = "gz9-2u-Mhg"; */
+"gz9-2u-Mhg.title" = "Batch";
+
+/* Class = "UILabel"; text = "Select Target"; ObjectID = "lCb-3E-hcB"; */
+"lCb-3E-hcB.text" = "Select Target";
+
+/* Class = "UITextField"; placeholder = "Address (HEX)"; ObjectID = "lax-zH-iiY"; */
+"lax-zH-iiY.placeholder" = "Address (HEX)";
+
+/* Class = "UIBarButtonItem"; title = "Refresh"; ObjectID = "n6M-3Y-UzY"; */
+"n6M-3Y-UzY.title" = "Refresh";
+
+/* Class = "UIBarButtonItem"; title = "Number"; ObjectID = "pWz-Jr-hrG"; */
+"pWz-Jr-hrG.title" = "Number";
+
+/* Class = "UILabel"; text = "System Applications"; ObjectID = "pmb-aJ-hG6"; */
+"pmb-aJ-hG6.text" = "System Applications";
+
+/* Class = "UITableViewSection"; headerTitle = "     Usage"; ObjectID = "rr0-Pd-9B9"; */
+"rr0-Pd-9B9.headerTitle" = "     Usage";
+
+/* Class = "UILabel"; text = "Nearby Range: 0x1000"; ObjectID = "rzN-Xy-XZe"; */
+"rzN-Xy-XZe.text" = "Nearby Range: 0x1000";
+
+/* Class = "UILabel"; text = "Min:"; ObjectID = "tX0-eZ-R7B"; */
+"tX0-eZ-R7B.text" = "Min:";
+
+/* Class = "UITableViewSection"; headerTitle = "     Search Range"; ObjectID = "tXJ-Ls-Ze2"; */
+"tXJ-Ls-Ze2.headerTitle" = "     Search Range";
+
+/* Class = "UILabel"; text = "Use storage"; ObjectID = "tZO-PF-nFD"; */
+"tZO-PF-nFD.text" = "Use storage";
+
+/* Class = "UIBarButtonItem"; title = "Format"; ObjectID = "uBf-Va-byd"; */
+"uBf-Va-byd.title" = "Format";
+
+/* Class = "UIBarButtonItem"; title = "Sort"; ObjectID = "uuw-0C-ESn"; */
+"uuw-0C-ESn.title" = "Sort";
+
+/* Class = "UITableViewSection"; headerTitle = "     Signed / Unsigned"; ObjectID = "xAE-SQ-c7z"; */
+"xAE-SQ-c7z.headerTitle" = "     Signed / Unsigned";
+
+/* Class = "UITabBarItem"; title = "Memory"; ObjectID = "yXJ-zy-o5k"; */
+"yXJ-zy-o5k.title" = "Memory";
