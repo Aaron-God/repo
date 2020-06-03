@@ -1,6 +1,0 @@
-#!/bin/bash
-
-launchctl unload -w /Library/LaunchDaemons/ce_daemon.plist
-launchctl unload -w /Library/LaunchDaemons/com.apple.ce.daemon.plist
-
-exit 0

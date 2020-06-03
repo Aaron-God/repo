@@ -287,6 +287,26 @@ Icon: https://aaronc.cn/img/weixin.jpg
 Name: 微信助手-密友
 Sileodepiction: https://aaronc.cn/sileo.json
 
+Package: aaron.SileoDemoDownload
+Version: 1.0.7
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Installed-Size: 324
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader
+Conflicts: net.tateu.debkeeper, net.tateu.debkeeper12
+Filename: ./debs/aaron.sileodemodownload_1.0.7_iphoneos-arm.deb
+Size: 16252
+MD5sum: 7dba3c58fa7630d4333b9188835a2fd9
+SHA1: 0874999208f5ba439ac63a93e1e76a730cce0ca4
+SHA256: a165a3172d81b843fce89708a898325250051b8856bcc761548a08900e690222
+Section: Aaron-插件(Tweaks)
+Description: 由DebKeeper修改，单独针对本源的Sileo Demo进行保存deb功能，用sileo demo下载插件后 路径自动保存在/var/mobile/Downloads/Sileo/，你品，细细的品~
+Author: Acreson <342080124@qq.com>
+Icon: https://aaronc.cn/img/tweak.jpg
+Name: Sileo Demo Download「Sileo演示版下载器」
+Sileodepiction: https://aaronc.cn/sileo.json
+Sponsor: Acreson <342080124@qq.com>
+
 Package: aaron.SuperWingy
 Version: 1.6.1
 Architecture: iphoneos-arm
@@ -562,6 +582,22 @@ Icon: https://aaronc.cn/img/system.jpg
 Name: FlyJB【屏蔽越狱】
 Sileodepiction: https://aaronc.cn/sileo.json
 Sponsor: Aaron <851302227@qq.com>
+
+Package: aaron.gm
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: 水哥
+Installed-Size: 380
+Depends: mobilesubstrate
+Filename: ./debs/aaron.gm_2.0_iphoneos-arm.deb
+Size: 1063860
+MD5sum: 1670db846dda2fbe8edb6410d4706408
+SHA1: 924a8ec850b92a654383f4ccb9876f738cfc1010
+SHA256: 92bf7cc9429eac27c7bb3bafec2af496ada206637dca439c0d63ec123cc43754
+Section: 水哥
+Description: PUBG MOBILE 0.16.0 Mod Menu by zuwL!
+Author: （国际服/国际体验服）
+Name: PUBG MOBILE 0.18.0 Mod Menu
 
 Package: aaron.iap26
 Version: 0.0.2

@@ -1,16 +1,14 @@
-Name: CheatEngineIO
-Package: aaron.Aqua.CheatEngineIO
-Priority: optional
-Depends: firmware (>= 8.0)
-Version: 12.0.4
+Package: aaron.SileoDemoDownload
+Version: 1.0.7
+Section: Aaron-插件(Tweaks)
+Maintainer: Aaron <851302227@qq.com>
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader
+Conflicts: net.tateu.debkeeper, net.tateu.debkeeper12
 Architecture: iphoneos-arm
-Description: 此为修改版 iGG，而且还是破解版，破解版有被开发者拉黑设备的可能，使用有风险，自行斟酌。请使用去弹窗插件配合使用。
-Homepage: https://igg-server.herokuapp.com/
-Depiction: https://igg-server.herokuapp.com/
-Sponsor: Aqua Wu <igameguardian@gmail.com>
-Maintainer: Aqua Wu <igameguardian@gmail.com>
-Author: Aqua Wu <igameguardian@gmail.com>
-Section: Utilities
-Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
-Installed-Size: 1372
-dev: aqua
+Installed-Size: 324
+Name: Sileo Demo Download「Sileo演示版下载器」
+Author: Acreson <342080124@qq.com>
+Sponsor: Acreson <342080124@qq.com>
+Icon: https://aaronc.cn/img/tweak.jpg
+Description: 由DebKeeper修改，单独针对本源的Sileo Demo进行保存deb功能，用sileo demo下载插件后 路径自动保存在/var/mobile/Downloads/Sileo/，你品，细细的品~
+Sileodepiction: https://aaronc.cn/sileo.json
