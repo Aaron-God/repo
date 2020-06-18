@@ -1,2 +1,0 @@
-bash -c "cd /Users/aaron/Desktop/GitHub/repo; ./.packages.sh; ./.bz.sh; ./.bz2.sh"
-exit
